@@ -1,0 +1,5002 @@
+[
+    {
+        "charecter": "一",
+        "pinyin": "yī",
+        "translation": "one"
+    },
+    {
+        "charecter": "人",
+        "pinyin": "rén",
+        "translation": "people"
+    },
+    {
+        "charecter": "里",
+        "pinyin": "lǐ",
+        "translation": "inside"
+    },
+    {
+        "charecter": "会",
+        "pinyin": "huì",
+        "translation": "meeting"
+    },
+    {
+        "charecter": "没",
+        "pinyin": "méi",
+        "translation": "without"
+    },
+    {
+        "charecter": "她",
+        "pinyin": "tā",
+        "translation": "she"
+    },
+    {
+        "charecter": "吗",
+        "pinyin": "ma",
+        "translation": "Is it"
+    },
+    {
+        "charecter": "去",
+        "pinyin": "qù",
+        "translation": "go"
+    },
+    {
+        "charecter": "也",
+        "pinyin": "yě",
+        "translation": "also"
+    },
+    {
+        "charecter": "有",
+        "pinyin": "yǒu",
+        "translation": "have"
+    },
+    {
+        "charecter": "这",
+        "pinyin": "zhè",
+        "translation": "this"
+    },
+    {
+        "charecter": "那",
+        "pinyin": "nà",
+        "translation": "That"
+    },
+    {
+        "charecter": "不",
+        "pinyin": "bù",
+        "translation": "No"
+    },
+    {
+        "charecter": "什",
+        "pinyin": "shén",
+        "translation": "Varied"
+    },
+    {
+        "charecter": "个",
+        "pinyin": "gè",
+        "translation": "indivual"
+    },
+    {
+        "charecter": "来",
+        "pinyin": "lái",
+        "translation": "Come"
+    },
+    {
+        "charecter": "要",
+        "pinyin": "yào",
+        "translation": "want"
+    },
+    {
+        "charecter": "就",
+        "pinyin": "jiù",
+        "translation": "At once"
+    },
+    {
+        "charecter": "我",
+        "pinyin": "wǒ",
+        "translation": "I"
+    },
+    {
+        "charecter": "你",
+        "pinyin": "nǐ",
+        "translation": "you"
+    },
+    {
+        "charecter": "的",
+        "pinyin": "de",
+        "translation": "of"
+    },
+    {
+        "charecter": "是",
+        "pinyin": "shì",
+        "translation": "yes"
+    },
+    {
+        "charecter": "了",
+        "pinyin": "le",
+        "translation": "It's"
+    },
+    {
+        "charecter": "他",
+        "pinyin": "tā",
+        "translation": "he"
+    },
+    {
+        "charecter": "么",
+        "pinyin": "me",
+        "translation": "Is it"
+    },
+    {
+        "charecter": "们",
+        "pinyin": "men",
+        "translation": "We"
+    },
+    {
+        "charecter": "在",
+        "pinyin": "zài",
+        "translation": "exist"
+    },
+    {
+        "charecter": "说",
+        "pinyin": "shuō",
+        "translation": "explain"
+    },
+    {
+        "charecter": "为",
+        "pinyin": "wèi",
+        "translation": "for"
+    },
+    {
+        "charecter": "好",
+        "pinyin": "hǎo",
+        "translation": "good"
+    },
+    {
+        "charecter": "吧",
+        "pinyin": "ba",
+        "translation": "Bar"
+    },
+    {
+        "charecter": "知道",
+        "pinyin": "zhī dào",
+        "translation": "Know"
+    },
+    {
+        "charecter": "我的",
+        "pinyin": "wǒ de",
+        "translation": "mine"
+    },
+    {
+        "charecter": "和",
+        "pinyin": "hé",
+        "translation": "and"
+    },
+    {
+        "charecter": "你的",
+        "pinyin": "nǐ de",
+        "translation": "your"
+    },
+    {
+        "charecter": "想",
+        "pinyin": "xiǎng",
+        "translation": "think"
+    },
+    {
+        "charecter": "只",
+        "pinyin": "zhǐ",
+        "translation": "Only"
+    },
+    {
+        "charecter": "很",
+        "pinyin": "hěn",
+        "translation": "very"
+    },
+    {
+        "charecter": "都",
+        "pinyin": "dōu",
+        "translation": "All"
+    },
+    {
+        "charecter": "对",
+        "pinyin": "duì",
+        "translation": "right"
+    },
+    {
+        "charecter": "把",
+        "pinyin": "bǎ",
+        "translation": "Bundle"
+    },
+    {
+        "charecter": "啊",
+        "pinyin": "a",
+        "translation": "ah"
+    },
+    {
+        "charecter": "怎",
+        "pinyin": "zěn",
+        "translation": "How"
+    },
+    {
+        "charecter": "得",
+        "pinyin": "dé",
+        "translation": "have to"
+    },
+    {
+        "charecter": "还",
+        "pinyin": "hái",
+        "translation": "return"
+    },
+    {
+        "charecter": "过",
+        "pinyin": "guò",
+        "translation": "Pass"
+    },
+    {
+        "charecter": "不是",
+        "pinyin": "bú shì",
+        "translation": "no"
+    },
+    {
+        "charecter": "到",
+        "pinyin": "dào",
+        "translation": "arrive"
+    },
+    {
+        "charecter": "样",
+        "pinyin": "yàng",
+        "translation": "Sample"
+    },
+    {
+        "charecter": "飞",
+        "pinyin": "fēi",
+        "translation": "fly"
+    },
+    {
+        "charecter": "远",
+        "pinyin": "yuǎn",
+        "translation": "Far"
+    },
+    {
+        "charecter": "身",
+        "pinyin": "shēn",
+        "translation": "body"
+    },
+    {
+        "charecter": "任何",
+        "pinyin": "rèn hé",
+        "translation": "any"
+    },
+    {
+        "charecter": "生活",
+        "pinyin": "shēng huó",
+        "translation": "Life"
+    },
+    {
+        "charecter": "够",
+        "pinyin": "gòu",
+        "translation": "enough"
+    },
+    {
+        "charecter": "号",
+        "pinyin": "hào",
+        "translation": "Number"
+    },
+    {
+        "charecter": "兰",
+        "pinyin": "lán",
+        "translation": "orchid"
+    },
+    {
+        "charecter": "瑞",
+        "pinyin": "ruì",
+        "translation": "Rui"
+    },
+    {
+        "charecter": "达",
+        "pinyin": "dá",
+        "translation": "De"
+    },
+    {
+        "charecter": "或",
+        "pinyin": "huò",
+        "translation": "or"
+    },
+    {
+        "charecter": "愿",
+        "pinyin": "yuàn",
+        "translation": "willing"
+    },
+    {
+        "charecter": "蒂",
+        "pinyin": "dì",
+        "translation": "Tee"
+    },
+    {
+        "charecter": "別",
+        "pinyin": "bié",
+        "translation": "No"
+    },
+    {
+        "charecter": "军",
+        "pinyin": "jūn",
+        "translation": "military"
+    },
+    {
+        "charecter": "正",
+        "pinyin": "zhèng",
+        "translation": "just"
+    },
+    {
+        "charecter": "是不是",
+        "pinyin": "shì bú shì",
+        "translation": "Yes or no"
+    },
+    {
+        "charecter": "证",
+        "pinyin": "zhèng",
+        "translation": "certificate"
+    },
+    {
+        "charecter": "不用",
+        "pinyin": "bù yòng",
+        "translation": "Need not"
+    },
+    {
+        "charecter": "三",
+        "pinyin": "sān",
+        "translation": "three"
+    },
+    {
+        "charecter": "乐",
+        "pinyin": "lè",
+        "translation": "happy"
+    },
+    {
+        "charecter": "吉",
+        "pinyin": "jí",
+        "translation": "lucky"
+    },
+    {
+        "charecter": "男人",
+        "pinyin": "nán rén",
+        "translation": "man"
+    },
+    {
+        "charecter": "告訴",
+        "pinyin": "gào sù",
+        "translation": "Tell me"
+    },
+    {
+        "charecter": "路",
+        "pinyin": "lù",
+        "translation": "road"
+    },
+    {
+        "charecter": "搞",
+        "pinyin": "gǎo",
+        "translation": "Do it"
+    },
+    {
+        "charecter": "可是",
+        "pinyin": "kě shì",
+        "translation": "But"
+    },
+    {
+        "charecter": "与",
+        "pinyin": "yǔ",
+        "translation": "and"
+    },
+    {
+        "charecter": "次",
+        "pinyin": "cì",
+        "translation": "Second-rate"
+    },
+    {
+        "charecter": "狗",
+        "pinyin": "gǒu",
+        "translation": "dog"
+    },
+    {
+        "charecter": "决",
+        "pinyin": "jué",
+        "translation": "Decision"
+    },
+    {
+        "charecter": "金",
+        "pinyin": "jīn",
+        "translation": "gold"
+    },
+    {
+        "charecter": "史",
+        "pinyin": "shǐ",
+        "translation": "history"
+    },
+    {
+        "charecter": "姆",
+        "pinyin": "mǔ",
+        "translation": "M"
+    },
+    {
+        "charecter": "部",
+        "pinyin": "bù",
+        "translation": "department"
+    },
+    {
+        "charecter": "正在",
+        "pinyin": "zhèng zài",
+        "translation": "In progress"
+    },
+    {
+        "charecter": "活",
+        "pinyin": "huó",
+        "translation": "live"
+    },
+    {
+        "charecter": "刚",
+        "pinyin": "gāng",
+        "translation": "Just"
+    },
+    {
+        "charecter": "回家",
+        "pinyin": "huí jiā",
+        "translation": "go home"
+    },
+    {
+        "charecter": "贝",
+        "pinyin": "bèi",
+        "translation": "cowry"
+    },
+    {
+        "charecter": "如何",
+        "pinyin": "rú hé",
+        "translation": "how"
+    },
+    {
+        "charecter": "须",
+        "pinyin": "xū",
+        "translation": "Must"
+    },
+    {
+        "charecter": "战",
+        "pinyin": "zhàn",
+        "translation": "war"
+    },
+    {
+        "charecter": "不會",
+        "pinyin": "bù huì",
+        "translation": "will not"
+    },
+    {
+        "charecter": "夫",
+        "pinyin": "fū",
+        "translation": "husband"
+    },
+    {
+        "charecter": "喂",
+        "pinyin": "wèi",
+        "translation": "Hello"
+    },
+    {
+        "charecter": "父",
+        "pinyin": "fù",
+        "translation": "father"
+    },
+    {
+        "charecter": "亚",
+        "pinyin": "yà",
+        "translation": "Asia"
+    },
+    {
+        "charecter": "肯定",
+        "pinyin": "kěn dìng",
+        "translation": "affim"
+    },
+    {
+        "charecter": "女孩",
+        "pinyin": "nǚ hái",
+        "translation": "girl"
+    },
+    {
+        "charecter": "世界",
+        "pinyin": "shì jiè",
+        "translation": "world"
+    },
+    {
+        "charecter": "不要",
+        "pinyin": "bú yào",
+        "translation": "don't want"
+    },
+    {
+        "charecter": "些",
+        "pinyin": "xiē",
+        "translation": "some"
+    },
+    {
+        "charecter": "不知道",
+        "pinyin": "bù zhī dào",
+        "translation": "have no idea"
+    },
+    {
+        "charecter": "不能",
+        "pinyin": "bù néng",
+        "translation": "cannot"
+    },
+    {
+        "charecter": "因",
+        "pinyin": "yīn",
+        "translation": "because"
+    },
+    {
+        "charecter": "觉",
+        "pinyin": "jué",
+        "translation": "Sleep"
+    },
+    {
+        "charecter": "发",
+        "pinyin": "fā",
+        "translation": "hair"
+    },
+    {
+        "charecter": "像",
+        "pinyin": "xiàng",
+        "translation": "picture"
+    },
+    {
+        "charecter": "太",
+        "pinyin": "tài",
+        "translation": "too"
+    },
+    {
+        "charecter": "但是",
+        "pinyin": "dàn shì",
+        "translation": "but"
+    },
+    {
+        "charecter": "多",
+        "pinyin": "duō",
+        "translation": "many"
+    },
+    {
+        "charecter": "打",
+        "pinyin": "dǎ",
+        "translation": "beat"
+    },
+    {
+        "charecter": "机",
+        "pinyin": "jī",
+        "translation": "machine"
+    },
+    {
+        "charecter": "來",
+        "pinyin": "lái",
+        "translation": "Come"
+    },
+    {
+        "charecter": "好了",
+        "pinyin": "hǎo le",
+        "translation": "alright"
+    },
+    {
+        "charecter": "用",
+        "pinyin": "yòng",
+        "translation": "use"
+    },
+    {
+        "charecter": "他的",
+        "pinyin": "tā de",
+        "translation": "his"
+    },
+    {
+        "charecter": "诉",
+        "pinyin": "sù",
+        "translation": "Vote"
+    },
+    {
+        "charecter": "德",
+        "pinyin": "dé",
+        "translation": "De"
+    },
+    {
+        "charecter": "叫",
+        "pinyin": "jiào",
+        "translation": "Call"
+    },
+    {
+        "charecter": "什麼",
+        "pinyin": "shén me",
+        "translation": "what"
+    },
+    {
+        "charecter": "真",
+        "pinyin": "zhēn",
+        "translation": "real"
+    },
+    {
+        "charecter": "干",
+        "pinyin": "gàn",
+        "translation": "Dry"
+    },
+    {
+        "charecter": "心",
+        "pinyin": "xīn",
+        "translation": "Heart"
+    },
+    {
+        "charecter": "走",
+        "pinyin": "zǒu",
+        "translation": "Walk"
+    },
+    {
+        "charecter": "比",
+        "pinyin": "bǐ",
+        "translation": "Compare"
+    },
+    {
+        "charecter": "死",
+        "pinyin": "sǐ",
+        "translation": "die"
+    },
+    {
+        "charecter": "嘿",
+        "pinyin": "hēi",
+        "translation": "Hey"
+    },
+    {
+        "charecter": "出",
+        "pinyin": "chū",
+        "translation": "out"
+    },
+    {
+        "charecter": "车",
+        "pinyin": "chē",
+        "translation": "car"
+    },
+    {
+        "charecter": "一下",
+        "pinyin": "yī xià",
+        "translation": "one time"
+    },
+    {
+        "charecter": "中",
+        "pinyin": "zhōng",
+        "translation": "middle"
+    },
+    {
+        "charecter": "好吧",
+        "pinyin": "hǎo ba",
+        "translation": "All right"
+    },
+    {
+        "charecter": "需要",
+        "pinyin": "xū yào",
+        "translation": "need"
+    },
+    {
+        "charecter": "经",
+        "pinyin": "jīng",
+        "translation": "through"
+    },
+    {
+        "charecter": "妈",
+        "pinyin": "mā",
+        "translation": "mom"
+    },
+    {
+        "charecter": "候",
+        "pinyin": "hòu",
+        "translation": "Wait"
+    },
+    {
+        "charecter": "长",
+        "pinyin": "zhǎng",
+        "translation": "long"
+    },
+    {
+        "charecter": "而",
+        "pinyin": "ér",
+        "translation": "and"
+    },
+    {
+        "charecter": "错",
+        "pinyin": "cuò",
+        "translation": "wrong"
+    },
+    {
+        "charecter": "好的",
+        "pinyin": "hǎo de",
+        "translation": "OK"
+    },
+    {
+        "charecter": "间",
+        "pinyin": "jiān",
+        "translation": "between"
+    },
+    {
+        "charecter": "又",
+        "pinyin": "yòu",
+        "translation": "again"
+    },
+    {
+        "charecter": "国",
+        "pinyin": "guó",
+        "translation": "country"
+    },
+    {
+        "charecter": "起",
+        "pinyin": "qǐ",
+        "translation": "rise"
+    },
+    {
+        "charecter": "动",
+        "pinyin": "dòng",
+        "translation": "move"
+    },
+    {
+        "charecter": "杀",
+        "pinyin": "shā",
+        "translation": "kill"
+    },
+    {
+        "charecter": "于",
+        "pinyin": "yú",
+        "translation": "At"
+    },
+    {
+        "charecter": "种",
+        "pinyin": "zhǒng",
+        "translation": "kind"
+    },
+    {
+        "charecter": "去了",
+        "pinyin": "qù le",
+        "translation": "Go"
+    },
+    {
+        "charecter": "担",
+        "pinyin": "dān",
+        "translation": "Load"
+    },
+    {
+        "charecter": "名",
+        "pinyin": "míng",
+        "translation": "name"
+    },
+    {
+        "charecter": "混蛋",
+        "pinyin": "hùn dàn",
+        "translation": "asshole"
+    },
+    {
+        "charecter": "礼",
+        "pinyin": "lǐ",
+        "translation": "present"
+    },
+    {
+        "charecter": "幹",
+        "pinyin": "gàn",
+        "translation": "Do"
+    },
+    {
+        "charecter": "不了",
+        "pinyin": "bù liǎo",
+        "translation": "No"
+    },
+    {
+        "charecter": "有些",
+        "pinyin": "yǒu xiē",
+        "translation": "some"
+    },
+    {
+        "charecter": "過",
+        "pinyin": "guò",
+        "translation": "pass"
+    },
+    {
+        "charecter": "後",
+        "pinyin": "hòu",
+        "translation": "back"
+    },
+    {
+        "charecter": "击",
+        "pinyin": "jī",
+        "translation": "hit"
+    },
+    {
+        "charecter": "漂亮",
+        "pinyin": "piào liàng",
+        "translation": "pretty"
+    },
+    {
+        "charecter": "神",
+        "pinyin": "shén",
+        "translation": "god"
+    },
+    {
+        "charecter": "多少",
+        "pinyin": "duō shǎo",
+        "translation": "How many"
+    },
+    {
+        "charecter": "海",
+        "pinyin": "hǎi",
+        "translation": "ocean"
+    },
+    {
+        "charecter": "每",
+        "pinyin": "měi",
+        "translation": "Every"
+    },
+    {
+        "charecter": "哥",
+        "pinyin": "gē",
+        "translation": "elder brother"
+    },
+    {
+        "charecter": "教",
+        "pinyin": "jiào",
+        "translation": "teach"
+    },
+    {
+        "charecter": "走吧",
+        "pinyin": "zǒu ba",
+        "translation": "Let's go"
+    },
+    {
+        "charecter": "好像",
+        "pinyin": "hǎo xiàng",
+        "translation": "like"
+    },
+    {
+        "charecter": "单",
+        "pinyin": "dān",
+        "translation": "one"
+    },
+    {
+        "charecter": "公",
+        "pinyin": "gōng",
+        "translation": "male"
+    },
+    {
+        "charecter": "林",
+        "pinyin": "lín",
+        "translation": "Forest"
+    },
+    {
+        "charecter": "女",
+        "pinyin": "nǚ",
+        "translation": "female"
+    },
+    {
+        "charecter": "忙",
+        "pinyin": "máng",
+        "translation": "busy"
+    },
+    {
+        "charecter": "火",
+        "pinyin": "huǒ",
+        "translation": "fire"
+    },
+    {
+        "charecter": "钟",
+        "pinyin": "zhōng",
+        "translation": "bell"
+    },
+    {
+        "charecter": "家伙",
+        "pinyin": "jiā huo",
+        "translation": "Guy"
+    },
+    {
+        "charecter": "科",
+        "pinyin": "kē",
+        "translation": "division"
+    },
+    {
+        "charecter": "回去",
+        "pinyin": "huí qù",
+        "translation": "go back"
+    },
+    {
+        "charecter": "最后",
+        "pinyin": "zuì hòu",
+        "translation": "at last"
+    },
+    {
+        "charecter": "水",
+        "pinyin": "shuǐ",
+        "translation": "water"
+    },
+    {
+        "charecter": "不管",
+        "pinyin": "bù guǎn",
+        "translation": "in spite of"
+    },
+    {
+        "charecter": "麦",
+        "pinyin": "mài",
+        "translation": "wheat"
+    },
+    {
+        "charecter": "泻",
+        "pinyin": "xiè",
+        "translation": "diarrhea"
+    },
+    {
+        "charecter": "鬼",
+        "pinyin": "guǐ",
+        "translation": "ghost"
+    },
+    {
+        "charecter": "還",
+        "pinyin": "hái",
+        "translation": "Also"
+    },
+    {
+        "charecter": "船",
+        "pinyin": "chuán",
+        "translation": "Boat"
+    },
+    {
+        "charecter": "永",
+        "pinyin": "yǒng",
+        "translation": "forever"
+    },
+    {
+        "charecter": "安全",
+        "pinyin": "ān quán",
+        "translation": "Safety"
+    },
+    {
+        "charecter": "那個",
+        "pinyin": "nà gè",
+        "translation": "That"
+    },
+    {
+        "charecter": "爾",
+        "pinyin": "ěr",
+        "translation": "可"
+    },
+    {
+        "charecter": "這麼",
+        "pinyin": "zhè me",
+        "translation": "This"
+    },
+    {
+        "charecter": "满",
+        "pinyin": "mǎn",
+        "translation": "Full"
+    },
+    {
+        "charecter": "风",
+        "pinyin": "fēng",
+        "translation": "wind"
+    },
+    {
+        "charecter": "皮",
+        "pinyin": "pí",
+        "translation": "Skin"
+    },
+    {
+        "charecter": "威",
+        "pinyin": "wēi",
+        "translation": "Viagra"
+    },
+    {
+        "charecter": "据",
+        "pinyin": "jù",
+        "translation": "according to"
+    },
+    {
+        "charecter": "鲁",
+        "pinyin": "lǔ",
+        "translation": "Lu"
+    },
+    {
+        "charecter": "转",
+        "pinyin": "zhuǎn",
+        "translation": "change"
+    },
+    {
+        "charecter": "相",
+        "pinyin": "xiāng",
+        "translation": "Mutually"
+    },
+    {
+        "charecter": "地方",
+        "pinyin": "dì fāng",
+        "translation": "place"
+    },
+    {
+        "charecter": "沒有",
+        "pinyin": "méi yǒu",
+        "translation": "no"
+    },
+    {
+        "charecter": "有人",
+        "pinyin": "yǒu rén",
+        "translation": "Someone"
+    },
+    {
+        "charecter": "嗨",
+        "pinyin": "hāi",
+        "translation": "Hi"
+    },
+    {
+        "charecter": "看看",
+        "pinyin": "kàn kàn",
+        "translation": "have a look"
+    },
+    {
+        "charecter": "自己",
+        "pinyin": "zì jǐ",
+        "translation": "Own"
+    },
+    {
+        "charecter": "一定",
+        "pinyin": "yí dìng",
+        "translation": "must"
+    },
+    {
+        "charecter": "事情",
+        "pinyin": "shì qíng",
+        "translation": "matter"
+    },
+    {
+        "charecter": "屑",
+        "pinyin": "xiè",
+        "translation": "Shave"
+    },
+    {
+        "charecter": "希望",
+        "pinyin": "xī wàng",
+        "translation": "hope"
+    },
+    {
+        "charecter": "所",
+        "pinyin": "suǒ",
+        "translation": "Place"
+    },
+    {
+        "charecter": "褉",
+        "pinyin": "xiè",
+        "translation": "Pin"
+    },
+    {
+        "charecter": "感",
+        "pinyin": "gǎn",
+        "translation": "feel"
+    },
+    {
+        "charecter": "气",
+        "pinyin": "qì",
+        "translation": "gas"
+    },
+    {
+        "charecter": "不想",
+        "pinyin": "bù xiǎng",
+        "translation": "In no mood"
+    },
+    {
+        "charecter": "嘛",
+        "pinyin": "ma",
+        "translation": "Well"
+    },
+    {
+        "charecter": "实",
+        "pinyin": "shí",
+        "translation": "Reality"
+    },
+    {
+        "charecter": "始",
+        "pinyin": "shǐ",
+        "translation": "beginning"
+    },
+    {
+        "charecter": "給",
+        "pinyin": "gěi",
+        "translation": "give"
+    },
+    {
+        "charecter": "然后",
+        "pinyin": "rán hòu",
+        "translation": "Then"
+    },
+    {
+        "charecter": "個",
+        "pinyin": "gè",
+        "translation": "Piece"
+    },
+    {
+        "charecter": "相信",
+        "pinyin": "xiāng xìn",
+        "translation": "believe"
+    },
+    {
+        "charecter": "结",
+        "pinyin": "jié",
+        "translation": "Knot"
+    },
+    {
+        "charecter": "今天",
+        "pinyin": "jīn tiān",
+        "translation": "today"
+    },
+    {
+        "charecter": "几",
+        "pinyin": "jǐ",
+        "translation": "Several"
+    },
+    {
+        "charecter": "题",
+        "pinyin": "tí",
+        "translation": "question"
+    },
+    {
+        "charecter": "放",
+        "pinyin": "fàng",
+        "translation": "put"
+    },
+    {
+        "charecter": "讓",
+        "pinyin": "ràng",
+        "translation": "let"
+    },
+    {
+        "charecter": "确",
+        "pinyin": "què",
+        "translation": "Confirm"
+    },
+    {
+        "charecter": "意思",
+        "pinyin": "yì sī",
+        "translation": "mean"
+    },
+    {
+        "charecter": "成",
+        "pinyin": "chéng",
+        "translation": "become"
+    },
+    {
+        "charecter": "所有",
+        "pinyin": "suǒ yǒu",
+        "translation": "all"
+    },
+    {
+        "charecter": "喜",
+        "pinyin": "xǐ",
+        "translation": "happiness"
+    },
+    {
+        "charecter": "對",
+        "pinyin": "duì",
+        "translation": "right"
+    },
+    {
+        "charecter": "之",
+        "pinyin": "zhī",
+        "translation": "Of"
+    },
+    {
+        "charecter": "一切",
+        "pinyin": "yī qiè",
+        "translation": "everything"
+    },
+    {
+        "charecter": "记",
+        "pinyin": "jì",
+        "translation": "remember"
+    },
+    {
+        "charecter": "抱歉",
+        "pinyin": "bào qiàn",
+        "translation": "Feel sorry"
+    },
+    {
+        "charecter": "一直",
+        "pinyin": "yì zhí",
+        "translation": "Always"
+    },
+    {
+        "charecter": "天",
+        "pinyin": "tiān",
+        "translation": "sky"
+    },
+    {
+        "charecter": "褌",
+        "pinyin": "kūn",
+        "translation": "drawers"
+    },
+    {
+        "charecter": "钱",
+        "pinyin": "qián",
+        "translation": "money"
+    },
+    {
+        "charecter": "面",
+        "pinyin": "miàn",
+        "translation": "noodle"
+    },
+    {
+        "charecter": "更",
+        "pinyin": "gèng",
+        "translation": "Even"
+    },
+    {
+        "charecter": "学",
+        "pinyin": "xué",
+        "translation": "study"
+    },
+    {
+        "charecter": "現在",
+        "pinyin": "xiàn zài",
+        "translation": "now"
+    },
+    {
+        "charecter": "边",
+        "pinyin": "biān",
+        "translation": "side"
+    },
+    {
+        "charecter": "你們",
+        "pinyin": "nǐ men",
+        "translation": "you"
+    },
+    {
+        "charecter": "不起",
+        "pinyin": "bù qǐ",
+        "translation": "No thanks"
+    },
+    {
+        "charecter": "脑",
+        "pinyin": "nǎo",
+        "translation": "brain"
+    },
+    {
+        "charecter": "呃",
+        "pinyin": "è",
+        "translation": "Well"
+    },
+    {
+        "charecter": "论",
+        "pinyin": "lùn",
+        "translation": "Argument"
+    },
+    {
+        "charecter": "曼",
+        "pinyin": "màn",
+        "translation": "Man"
+    },
+    {
+        "charecter": "點",
+        "pinyin": "diǎn",
+        "translation": "point"
+    },
+    {
+        "charecter": "普",
+        "pinyin": "pǔ",
+        "translation": "general"
+    },
+    {
+        "charecter": "第一",
+        "pinyin": "dì yī",
+        "translation": "First"
+    },
+    {
+        "charecter": "通",
+        "pinyin": "tōng",
+        "translation": "Pass"
+    },
+    {
+        "charecter": "棒",
+        "pinyin": "bàng",
+        "translation": "Great"
+    },
+    {
+        "charecter": "线",
+        "pinyin": "xiàn",
+        "translation": "Wire"
+    },
+    {
+        "charecter": "很高",
+        "pinyin": "hěn gāo",
+        "translation": "Very high"
+    },
+    {
+        "charecter": "买",
+        "pinyin": "mǎi",
+        "translation": "purchase"
+    },
+    {
+        "charecter": "求",
+        "pinyin": "qiú",
+        "translation": "beg"
+    },
+    {
+        "charecter": "束",
+        "pinyin": "shù",
+        "translation": "bundle"
+    },
+    {
+        "charecter": "哇",
+        "pinyin": "wa",
+        "translation": "Wow"
+    },
+    {
+        "charecter": "指",
+        "pinyin": "zhǐ",
+        "translation": "refer to"
+    },
+    {
+        "charecter": "张",
+        "pinyin": "zhāng",
+        "translation": "open"
+    },
+    {
+        "charecter": "文",
+        "pinyin": "wén",
+        "translation": "arts"
+    },
+    {
+        "charecter": "锌",
+        "pinyin": "xīn",
+        "translation": "Zinc"
+    },
+    {
+        "charecter": "重",
+        "pinyin": "zhòng",
+        "translation": "Heavy"
+    },
+    {
+        "charecter": "菲",
+        "pinyin": "fēi",
+        "translation": "Philippine"
+    },
+    {
+        "charecter": "目",
+        "pinyin": "mù",
+        "translation": "Meaning"
+    },
+    {
+        "charecter": "根本",
+        "pinyin": "gēn běn",
+        "translation": "fundamental"
+    },
+    {
+        "charecter": "联",
+        "pinyin": "lián",
+        "translation": "Connect"
+    },
+    {
+        "charecter": "丹",
+        "pinyin": "dān",
+        "translation": "Dan"
+    },
+    {
+        "charecter": "愛",
+        "pinyin": "ài",
+        "translation": "love"
+    },
+    {
+        "charecter": "不到",
+        "pinyin": "bú dào",
+        "translation": "Less than"
+    },
+    {
+        "charecter": "這些",
+        "pinyin": "zhè xiē",
+        "translation": "These"
+    },
+    {
+        "charecter": "自己的",
+        "pinyin": "zì jǐ de",
+        "translation": "My own"
+    },
+    {
+        "charecter": "笑",
+        "pinyin": "xiào",
+        "translation": "laugh"
+    },
+    {
+        "charecter": "闭",
+        "pinyin": "bì",
+        "translation": "close"
+    },
+    {
+        "charecter": "基",
+        "pinyin": "jī",
+        "translation": "base"
+    },
+    {
+        "charecter": "唯一",
+        "pinyin": "wéi yī",
+        "translation": "only"
+    },
+    {
+        "charecter": "要是",
+        "pinyin": "yào shì",
+        "translation": "if"
+    },
+    {
+        "charecter": "提",
+        "pinyin": "tí",
+        "translation": "carry"
+    },
+    {
+        "charecter": "调",
+        "pinyin": "diào",
+        "translation": "Adjust"
+    },
+    {
+        "charecter": "丽",
+        "pinyin": "lì",
+        "translation": "Korea"
+    },
+    {
+        "charecter": "女士",
+        "pinyin": "nǚ shì",
+        "translation": "Miss"
+    },
+    {
+        "charecter": "校",
+        "pinyin": "xiào",
+        "translation": "school"
+    },
+    {
+        "charecter": "公司",
+        "pinyin": "gōng sī",
+        "translation": "company"
+    },
+    {
+        "charecter": "况",
+        "pinyin": "kuàng",
+        "translation": "condition"
+    },
+    {
+        "charecter": "烦",
+        "pinyin": "fán",
+        "translation": "bother"
+    },
+    {
+        "charecter": "停",
+        "pinyin": "tíng",
+        "translation": "stop"
+    },
+    {
+        "charecter": "英",
+        "pinyin": "yīng",
+        "translation": "Britain"
+    },
+    {
+        "charecter": "警",
+        "pinyin": "jǐng",
+        "translation": "police"
+    },
+    {
+        "charecter": "险",
+        "pinyin": "xiǎn",
+        "translation": "risk"
+    },
+    {
+        "charecter": "東西",
+        "pinyin": "dōng xī",
+        "translation": "Something"
+    },
+    {
+        "charecter": "不可能",
+        "pinyin": "bù kě néng",
+        "translation": "impossible"
+    },
+    {
+        "charecter": "坐",
+        "pinyin": "zuò",
+        "translation": "sit"
+    },
+    {
+        "charecter": "区",
+        "pinyin": "qū",
+        "translation": "district"
+    },
+    {
+        "charecter": "果",
+        "pinyin": "guǒ",
+        "translation": "fruit"
+    },
+    {
+        "charecter": "伙",
+        "pinyin": "huǒ",
+        "translation": "partner"
+    },
+    {
+        "charecter": "哈",
+        "pinyin": "hā",
+        "translation": "ha"
+    },
+    {
+        "charecter": "罗",
+        "pinyin": "luó",
+        "translation": "Luo"
+    },
+    {
+        "charecter": "难",
+        "pinyin": "nán",
+        "translation": "Disaster"
+    },
+    {
+        "charecter": "两",
+        "pinyin": "liǎng",
+        "translation": "two"
+    },
+    {
+        "charecter": "一些",
+        "pinyin": "yī xiē",
+        "translation": "Some"
+    },
+    {
+        "charecter": "這樣",
+        "pinyin": "zhè yàng",
+        "translation": "This is"
+    },
+    {
+        "charecter": "自",
+        "pinyin": "zì",
+        "translation": "since"
+    },
+    {
+        "charecter": "女人",
+        "pinyin": "nǚ rén",
+        "translation": "woman"
+    },
+    {
+        "charecter": "向",
+        "pinyin": "xiàng",
+        "translation": "Towards"
+    },
+    {
+        "charecter": "最好",
+        "pinyin": "zuì hǎo",
+        "translation": "most"
+    },
+    {
+        "charecter": "走了",
+        "pinyin": "zǒu le",
+        "translation": "Leave"
+    },
+    {
+        "charecter": "褬",
+        "pinyin": "sǎng",
+        "translation": "Plug"
+    },
+    {
+        "charecter": "胁",
+        "pinyin": "xié",
+        "translation": "Strong"
+    },
+    {
+        "charecter": "明",
+        "pinyin": "míng",
+        "translation": "bright"
+    },
+    {
+        "charecter": "理",
+        "pinyin": "lǐ",
+        "translation": "reason"
+    },
+    {
+        "charecter": "加",
+        "pinyin": "jiā",
+        "translation": "add"
+    },
+    {
+        "charecter": "枪",
+        "pinyin": "qiāng",
+        "translation": "gun"
+    },
+    {
+        "charecter": "万",
+        "pinyin": "wàn",
+        "translation": "Ten thousand"
+    },
+    {
+        "charecter": "员",
+        "pinyin": "yuán",
+        "translation": "member"
+    },
+    {
+        "charecter": "妳",
+        "pinyin": "nǐ",
+        "translation": "you"
+    },
+    {
+        "charecter": "玩",
+        "pinyin": "wán",
+        "translation": "Play"
+    },
+    {
+        "charecter": "分",
+        "pinyin": "fēn",
+        "translation": "point"
+    },
+    {
+        "charecter": "作",
+        "pinyin": "zuò",
+        "translation": "do"
+    },
+    {
+        "charecter": "巴",
+        "pinyin": "bā",
+        "translation": "-bar"
+    },
+    {
+        "charecter": "而且",
+        "pinyin": "ér qiě",
+        "translation": "and"
+    },
+    {
+        "charecter": "物",
+        "pinyin": "wù",
+        "translation": "Things"
+    },
+    {
+        "charecter": "伤",
+        "pinyin": "shāng",
+        "translation": "hurt"
+    },
+    {
+        "charecter": "官",
+        "pinyin": "guān",
+        "translation": "official"
+    },
+    {
+        "charecter": "道",
+        "pinyin": "dào",
+        "translation": "road"
+    },
+    {
+        "charecter": "出去",
+        "pinyin": "chū qù",
+        "translation": "go out"
+    },
+    {
+        "charecter": "力",
+        "pinyin": "lì",
+        "translation": "force"
+    },
+    {
+        "charecter": "总",
+        "pinyin": "zǒng",
+        "translation": "total"
+    },
+    {
+        "charecter": "者",
+        "pinyin": "zhě",
+        "translation": "Those"
+    },
+    {
+        "charecter": "先",
+        "pinyin": "xiān",
+        "translation": "First"
+    },
+    {
+        "charecter": "最",
+        "pinyin": "zuì",
+        "translation": "most"
+    },
+    {
+        "charecter": "很多",
+        "pinyin": "hěn duō",
+        "translation": "a lot of"
+    },
+    {
+        "charecter": "医",
+        "pinyin": "yī",
+        "translation": "medical"
+    },
+    {
+        "charecter": "一次",
+        "pinyin": "yī cì",
+        "translation": "once"
+    },
+    {
+        "charecter": "报",
+        "pinyin": "bào",
+        "translation": "Report"
+    },
+    {
+        "charecter": "名字",
+        "pinyin": "míng zì",
+        "translation": "name"
+    },
+    {
+        "charecter": "将",
+        "pinyin": "jiāng",
+        "translation": "Will"
+    },
+    {
+        "charecter": "迪",
+        "pinyin": "dí",
+        "translation": "Di"
+    },
+    {
+        "charecter": "到了",
+        "pinyin": "dào le",
+        "translation": "arrive"
+    },
+    {
+        "charecter": "解",
+        "pinyin": "jiě",
+        "translation": "untie"
+    },
+    {
+        "charecter": "新",
+        "pinyin": "xīn",
+        "translation": "new"
+    },
+    {
+        "charecter": "队",
+        "pinyin": "duì",
+        "translation": "Team"
+    },
+    {
+        "charecter": "识",
+        "pinyin": "shí",
+        "translation": "knowledge"
+    },
+    {
+        "charecter": "死了",
+        "pinyin": "sǐ le",
+        "translation": "Dead"
+    },
+    {
+        "charecter": "眼",
+        "pinyin": "yǎn",
+        "translation": "Eye"
+    },
+    {
+        "charecter": "媽的",
+        "pinyin": "mā de",
+        "translation": "Mom's"
+    },
+    {
+        "charecter": "第一次",
+        "pinyin": "dì yī cì",
+        "translation": "first"
+    },
+    {
+        "charecter": "離開",
+        "pinyin": "lí kāi",
+        "translation": "Leave"
+    },
+    {
+        "charecter": "忘",
+        "pinyin": "wàng",
+        "translation": "forget"
+    },
+    {
+        "charecter": "我自己",
+        "pinyin": "wǒ zì jǐ",
+        "translation": "Myself"
+    },
+    {
+        "charecter": "谐",
+        "pinyin": "xié",
+        "translation": "Harmony"
+    },
+    {
+        "charecter": "严",
+        "pinyin": "yán",
+        "translation": "strict"
+    },
+    {
+        "charecter": "且",
+        "pinyin": "qiě",
+        "translation": "and"
+    },
+    {
+        "charecter": "帶",
+        "pinyin": "dài",
+        "translation": "belt"
+    },
+    {
+        "charecter": "赶",
+        "pinyin": "gǎn",
+        "translation": "Hurry up"
+    },
+    {
+        "charecter": "太棒",
+        "pinyin": "tài bàng",
+        "translation": "Very good"
+    },
+    {
+        "charecter": "佛",
+        "pinyin": "fú",
+        "translation": "Buddha"
+    },
+    {
+        "charecter": "直",
+        "pinyin": "zhí",
+        "translation": "straight"
+    },
+    {
+        "charecter": "認為",
+        "pinyin": "rèn wèi",
+        "translation": "think"
+    },
+    {
+        "charecter": "老婆",
+        "pinyin": "lǎo pó",
+        "translation": "Wife"
+    },
+    {
+        "charecter": "索",
+        "pinyin": "suǒ",
+        "translation": "Search"
+    },
+    {
+        "charecter": "除了",
+        "pinyin": "chú le",
+        "translation": "Apart from"
+    },
+    {
+        "charecter": "承",
+        "pinyin": "chéng",
+        "translation": "Inherited"
+    },
+    {
+        "charecter": "泰",
+        "pinyin": "tài",
+        "translation": "Thai"
+    },
+    {
+        "charecter": "建",
+        "pinyin": "jiàn",
+        "translation": "establish"
+    },
+    {
+        "charecter": "欧",
+        "pinyin": "ōu",
+        "translation": "Europe"
+    },
+    {
+        "charecter": "然後",
+        "pinyin": "rán hòu",
+        "translation": "then"
+    },
+    {
+        "charecter": "级",
+        "pinyin": "jí",
+        "translation": "class"
+    },
+    {
+        "charecter": "昨晚",
+        "pinyin": "zuó wǎn",
+        "translation": "last night"
+    },
+    {
+        "charecter": "石",
+        "pinyin": "shí",
+        "translation": "stone"
+    },
+    {
+        "charecter": "有了",
+        "pinyin": "yǒu le",
+        "translation": "Have it"
+    },
+    {
+        "charecter": "都有",
+        "pinyin": "dōu yǒu",
+        "translation": "All"
+    },
+    {
+        "charecter": "磲",
+        "pinyin": "qú",
+        "translation": "Clam"
+    },
+    {
+        "charecter": "差",
+        "pinyin": "chà",
+        "translation": "Difference"
+    },
+    {
+        "charecter": "思",
+        "pinyin": "sī",
+        "translation": "think"
+    },
+    {
+        "charecter": "啥",
+        "pinyin": "shá",
+        "translation": "What"
+    },
+    {
+        "charecter": "過來",
+        "pinyin": "guò lái",
+        "translation": "Come"
+    },
+    {
+        "charecter": "努力",
+        "pinyin": "nǔ lì",
+        "translation": "effort"
+    },
+    {
+        "charecter": "丈夫",
+        "pinyin": "zhàng fū",
+        "translation": "husband"
+    },
+    {
+        "charecter": "任何人",
+        "pinyin": "rèn hé rén",
+        "translation": "Anyone"
+    },
+    {
+        "charecter": "城市",
+        "pinyin": "chéng shì",
+        "translation": "City"
+    },
+    {
+        "charecter": "死亡",
+        "pinyin": "sǐ wáng",
+        "translation": "die"
+    },
+    {
+        "charecter": "全部",
+        "pinyin": "quán bù",
+        "translation": "all"
+    },
+    {
+        "charecter": "组",
+        "pinyin": "zǔ",
+        "translation": "Group"
+    },
+    {
+        "charecter": "i",
+        "pinyin": "i",
+        "translation": "i"
+    },
+    {
+        "charecter": "也許",
+        "pinyin": "yě xǔ",
+        "translation": "maybe"
+    },
+    {
+        "charecter": "最近",
+        "pinyin": "zuì jìn",
+        "translation": "recent"
+    },
+    {
+        "charecter": "倒",
+        "pinyin": "dào",
+        "translation": "fall"
+    },
+    {
+        "charecter": "领",
+        "pinyin": "lǐng",
+        "translation": "collar"
+    },
+    {
+        "charecter": "顾",
+        "pinyin": "gù",
+        "translation": "Gu"
+    },
+    {
+        "charecter": "市",
+        "pinyin": "shì",
+        "translation": "city"
+    },
+    {
+        "charecter": "六",
+        "pinyin": "liù",
+        "translation": "six"
+    },
+    {
+        "charecter": "行了",
+        "pinyin": "xíng le",
+        "translation": "OK"
+    },
+    {
+        "charecter": "滚",
+        "pinyin": "gǔn",
+        "translation": "roll"
+    },
+    {
+        "charecter": "好嗎",
+        "pinyin": "hǎo ma",
+        "translation": "OK"
+    },
+    {
+        "charecter": "师",
+        "pinyin": "shī",
+        "translation": "division"
+    },
+    {
+        "charecter": "高",
+        "pinyin": "gāo",
+        "translation": "high"
+    },
+    {
+        "charecter": "莉",
+        "pinyin": "lì",
+        "translation": "Li"
+    },
+    {
+        "charecter": "坏",
+        "pinyin": "huài",
+        "translation": "bad"
+    },
+    {
+        "charecter": "电",
+        "pinyin": "diàn",
+        "translation": "electricity"
+    },
+    {
+        "charecter": "警察",
+        "pinyin": "jǐng chá",
+        "translation": "police"
+    },
+    {
+        "charecter": "件",
+        "pinyin": "jiàn",
+        "translation": "Parts"
+    },
+    {
+        "charecter": "誰",
+        "pinyin": "shuí",
+        "translation": "who"
+    },
+    {
+        "charecter": "兄弟",
+        "pinyin": "xiōng dì",
+        "translation": "brother"
+    },
+    {
+        "charecter": "之前",
+        "pinyin": "zhī qián",
+        "translation": "Before"
+    },
+    {
+        "charecter": "谈",
+        "pinyin": "tán",
+        "translation": "talk"
+    },
+    {
+        "charecter": "送",
+        "pinyin": "sòng",
+        "translation": "deliver"
+    },
+    {
+        "charecter": "森",
+        "pinyin": "sēn",
+        "translation": "南"
+    },
+    {
+        "charecter": "伊",
+        "pinyin": "yī",
+        "translation": "I"
+    },
+    {
+        "charecter": "以前",
+        "pinyin": "yǐ qián",
+        "translation": "before"
+    },
+    {
+        "charecter": "房",
+        "pinyin": "fáng",
+        "translation": "house"
+    },
+    {
+        "charecter": "婚",
+        "pinyin": "hūn",
+        "translation": "marriage"
+    },
+    {
+        "charecter": "喝",
+        "pinyin": "hē",
+        "translation": "drink"
+    },
+    {
+        "charecter": "怎麼",
+        "pinyin": "zěn me",
+        "translation": "How"
+    },
+    {
+        "charecter": "今晚",
+        "pinyin": "jīn wǎn",
+        "translation": "tonight"
+    },
+    {
+        "charecter": "兴",
+        "pinyin": "xīng",
+        "translation": "prosper"
+    },
+    {
+        "charecter": "疯",
+        "pinyin": "fēng",
+        "translation": "crazy"
+    },
+    {
+        "charecter": "因為",
+        "pinyin": "yīn wèi",
+        "translation": "Because"
+    },
+    {
+        "charecter": "住",
+        "pinyin": "zhù",
+        "translation": "live"
+    },
+    {
+        "charecter": "内",
+        "pinyin": "nèi",
+        "translation": "Inside"
+    },
+    {
+        "charecter": "轻",
+        "pinyin": "qīng",
+        "translation": "light"
+    },
+    {
+        "charecter": "约",
+        "pinyin": "yuē",
+        "translation": "about"
+    },
+    {
+        "charecter": "声",
+        "pinyin": "shēng",
+        "translation": "Voice"
+    },
+    {
+        "charecter": "或者",
+        "pinyin": "huò zhě",
+        "translation": "or"
+    },
+    {
+        "charecter": "不行",
+        "pinyin": "bù xíng",
+        "translation": "no"
+    },
+    {
+        "charecter": "到底",
+        "pinyin": "dào dǐ",
+        "translation": "in the end"
+    },
+    {
+        "charecter": "雷",
+        "pinyin": "léi",
+        "translation": "thunder"
+    },
+    {
+        "charecter": "维",
+        "pinyin": "wéi",
+        "translation": "dimension"
+    },
+    {
+        "charecter": "条",
+        "pinyin": "tiáo",
+        "translation": "strip"
+    },
+    {
+        "charecter": "明天",
+        "pinyin": "míng tiān",
+        "translation": "tomorrow"
+    },
+    {
+        "charecter": "不好",
+        "pinyin": "bù hǎo",
+        "translation": "not good"
+    },
+    {
+        "charecter": "已經",
+        "pinyin": "yǐ jīng",
+        "translation": "already"
+    },
+    {
+        "charecter": "天啊",
+        "pinyin": "tiān a",
+        "translation": "Oh my God"
+    },
+    {
+        "charecter": "洛",
+        "pinyin": "luò",
+        "translation": "Luo"
+    },
+    {
+        "charecter": "护",
+        "pinyin": "hù",
+        "translation": "Protection"
+    },
+    {
+        "charecter": "塔",
+        "pinyin": "tǎ",
+        "translation": "tower"
+    },
+    {
+        "charecter": "运",
+        "pinyin": "yùn",
+        "translation": "transport"
+    },
+    {
+        "charecter": "接",
+        "pinyin": "jiē",
+        "translation": "catch"
+    },
+    {
+        "charecter": "球",
+        "pinyin": "qiú",
+        "translation": "ball"
+    },
+    {
+        "charecter": "得到",
+        "pinyin": "dé dào",
+        "translation": "get"
+    },
+    {
+        "charecter": "穿",
+        "pinyin": "chuān",
+        "translation": "wear"
+    },
+    {
+        "charecter": "音",
+        "pinyin": "yīn",
+        "translation": "sound"
+    },
+    {
+        "charecter": "從",
+        "pinyin": "cóng",
+        "translation": "from"
+    },
+    {
+        "charecter": "為",
+        "pinyin": "wèi",
+        "translation": "for"
+    },
+    {
+        "charecter": "生",
+        "pinyin": "shēng",
+        "translation": "born"
+    },
+    {
+        "charecter": "回",
+        "pinyin": "huí",
+        "translation": "Back"
+    },
+    {
+        "charecter": "可",
+        "pinyin": "kě",
+        "translation": "Can"
+    },
+    {
+        "charecter": "东",
+        "pinyin": "dōng",
+        "translation": "East"
+    },
+    {
+        "charecter": "尔",
+        "pinyin": "ěr",
+        "translation": "you"
+    },
+    {
+        "charecter": "欢",
+        "pinyin": "huān",
+        "translation": "joyous"
+    },
+    {
+        "charecter": "很好",
+        "pinyin": "hěn hǎo",
+        "translation": "very good"
+    },
+    {
+        "charecter": "他們",
+        "pinyin": "tā men",
+        "translation": "them"
+    },
+    {
+        "charecter": "进",
+        "pinyin": "jìn",
+        "translation": "Enter"
+    },
+    {
+        "charecter": "地",
+        "pinyin": "dì",
+        "translation": "land"
+    },
+    {
+        "charecter": "孩子",
+        "pinyin": "hái zi",
+        "translation": "child"
+    },
+    {
+        "charecter": "帮",
+        "pinyin": "bāng",
+        "translation": "help"
+    },
+    {
+        "charecter": "离",
+        "pinyin": "lí",
+        "translation": "Leave"
+    },
+    {
+        "charecter": "找",
+        "pinyin": "zhǎo",
+        "translation": "try to find"
+    },
+    {
+        "charecter": "尼",
+        "pinyin": "ní",
+        "translation": "Ni"
+    },
+    {
+        "charecter": "从",
+        "pinyin": "cóng",
+        "translation": "from"
+    },
+    {
+        "charecter": "下",
+        "pinyin": "xià",
+        "translation": "Down"
+    },
+    {
+        "charecter": "马",
+        "pinyin": "mǎ",
+        "translation": "horse"
+    },
+    {
+        "charecter": "以",
+        "pinyin": "yǐ",
+        "translation": "by"
+    },
+    {
+        "charecter": "利",
+        "pinyin": "lì",
+        "translation": "profit"
+    },
+    {
+        "charecter": "所以",
+        "pinyin": "suǒ yǐ",
+        "translation": "so"
+    },
+    {
+        "charecter": "关",
+        "pinyin": "guān",
+        "translation": "close"
+    },
+    {
+        "charecter": "哪",
+        "pinyin": "nǎ",
+        "translation": "where"
+    },
+    {
+        "charecter": "懈",
+        "pinyin": "xiè",
+        "translation": "negligent"
+    },
+    {
+        "charecter": "行",
+        "pinyin": "xíng",
+        "translation": "OK"
+    },
+    {
+        "charecter": "家",
+        "pinyin": "jiā",
+        "translation": "Home"
+    },
+    {
+        "charecter": "拉",
+        "pinyin": "lā",
+        "translation": "pull"
+    },
+    {
+        "charecter": "才",
+        "pinyin": "cái",
+        "translation": "talent"
+    },
+    {
+        "charecter": "看到",
+        "pinyin": "kàn dào",
+        "translation": "See"
+    },
+    {
+        "charecter": "說",
+        "pinyin": "shuō",
+        "translation": "say"
+    },
+    {
+        "charecter": "手",
+        "pinyin": "shǒu",
+        "translation": "hand"
+    },
+    {
+        "charecter": "法",
+        "pinyin": "fǎ",
+        "translation": "Law"
+    },
+    {
+        "charecter": "噢",
+        "pinyin": "ō",
+        "translation": "oh"
+    },
+    {
+        "charecter": "谁",
+        "pinyin": "shuí",
+        "translation": "who"
+    },
+    {
+        "charecter": "头",
+        "pinyin": "tóu",
+        "translation": "head"
+    },
+    {
+        "charecter": "无",
+        "pinyin": "wú",
+        "translation": "none"
+    },
+    {
+        "charecter": "嗯",
+        "pinyin": "ń",
+        "translation": "Um"
+    },
+    {
+        "charecter": "工作",
+        "pinyin": "gōng zuò",
+        "translation": "Work"
+    },
+    {
+        "charecter": "可能",
+        "pinyin": "kě néng",
+        "translation": "possible"
+    },
+    {
+        "charecter": "薪",
+        "pinyin": "xīn",
+        "translation": "salary"
+    },
+    {
+        "charecter": "朋友",
+        "pinyin": "péng yǒu",
+        "translation": "friend"
+    },
+    {
+        "charecter": "请",
+        "pinyin": "qǐng",
+        "translation": "please"
+    },
+    {
+        "charecter": "许",
+        "pinyin": "xǔ",
+        "translation": "May"
+    },
+    {
+        "charecter": "年",
+        "pinyin": "nián",
+        "translation": "Year"
+    },
+    {
+        "charecter": "那些",
+        "pinyin": "nà xiē",
+        "translation": "Those ones"
+    },
+    {
+        "charecter": "一個",
+        "pinyin": "yī gè",
+        "translation": "A"
+    },
+    {
+        "charecter": "一起",
+        "pinyin": "yì qǐ",
+        "translation": "Together"
+    },
+    {
+        "charecter": "然",
+        "pinyin": "rán",
+        "translation": "Of course"
+    },
+    {
+        "charecter": "吃",
+        "pinyin": "chī",
+        "translation": "eat"
+    },
+    {
+        "charecter": "写",
+        "pinyin": "xiě",
+        "translation": "Write"
+    },
+    {
+        "charecter": "带",
+        "pinyin": "dài",
+        "translation": "bring"
+    },
+    {
+        "charecter": "我喜",
+        "pinyin": "wǒ xǐ",
+        "translation": "I'm happy"
+    },
+    {
+        "charecter": "弗",
+        "pinyin": "fú",
+        "translation": "Fer"
+    },
+    {
+        "charecter": "尽",
+        "pinyin": "jǐn",
+        "translation": "All"
+    },
+    {
+        "charecter": "耶",
+        "pinyin": "yé",
+        "translation": "yeah"
+    },
+    {
+        "charecter": "喔",
+        "pinyin": "ō",
+        "translation": "oh"
+    },
+    {
+        "charecter": "褍",
+        "pinyin": "duān",
+        "translation": "Pump"
+    },
+    {
+        "charecter": "掉",
+        "pinyin": "diào",
+        "translation": "Lose"
+    },
+    {
+        "charecter": "书",
+        "pinyin": "shū",
+        "translation": "Book"
+    },
+    {
+        "charecter": "其他",
+        "pinyin": "qí tā",
+        "translation": "other"
+    },
+    {
+        "charecter": "派",
+        "pinyin": "pài",
+        "translation": "group"
+    },
+    {
+        "charecter": "士",
+        "pinyin": "shì",
+        "translation": "scholar"
+    },
+    {
+        "charecter": "器",
+        "pinyin": "qì",
+        "translation": "Device"
+    },
+    {
+        "charecter": "松",
+        "pinyin": "sōng",
+        "translation": "loose"
+    },
+    {
+        "charecter": "数",
+        "pinyin": "shù",
+        "translation": "number"
+    },
+    {
+        "charecter": "光",
+        "pinyin": "guāng",
+        "translation": "Light"
+    },
+    {
+        "charecter": "其",
+        "pinyin": "qí",
+        "translation": "That"
+    },
+    {
+        "charecter": "想我",
+        "pinyin": "xiǎng wǒ",
+        "translation": "Miss me"
+    },
+    {
+        "charecter": "极",
+        "pinyin": "jí",
+        "translation": "pole"
+    },
+    {
+        "charecter": "合",
+        "pinyin": "hé",
+        "translation": "combine"
+    },
+    {
+        "charecter": "完全",
+        "pinyin": "wán quán",
+        "translation": "completely"
+    },
+    {
+        "charecter": "做了",
+        "pinyin": "zuò le",
+        "translation": "Made"
+    },
+    {
+        "charecter": "影",
+        "pinyin": "yǐng",
+        "translation": "film"
+    },
+    {
+        "charecter": "室",
+        "pinyin": "shì",
+        "translation": "room"
+    },
+    {
+        "charecter": "受",
+        "pinyin": "shòu",
+        "translation": "by"
+    },
+    {
+        "charecter": "奇",
+        "pinyin": "qí",
+        "translation": "strange"
+    },
+    {
+        "charecter": "试",
+        "pinyin": "shì",
+        "translation": "try"
+    },
+    {
+        "charecter": "装",
+        "pinyin": "zhuāng",
+        "translation": "Pack"
+    },
+    {
+        "charecter": "晚上",
+        "pinyin": "wǎn shàng",
+        "translation": "night"
+    },
+    {
+        "charecter": "恶",
+        "pinyin": "è",
+        "translation": "evil"
+    },
+    {
+        "charecter": "应",
+        "pinyin": "yīng",
+        "translation": "answer"
+    },
+    {
+        "charecter": "小姐",
+        "pinyin": "xiǎo jiě",
+        "translation": "Miss"
+    },
+    {
+        "charecter": "整",
+        "pinyin": "zhěng",
+        "translation": "all"
+    },
+    {
+        "charecter": "强",
+        "pinyin": "qiáng",
+        "translation": "powerful"
+    },
+    {
+        "charecter": "业",
+        "pinyin": "yè",
+        "translation": "Industry"
+    },
+    {
+        "charecter": "类",
+        "pinyin": "lèi",
+        "translation": "kind"
+    },
+    {
+        "charecter": "复",
+        "pinyin": "fù",
+        "translation": "complex"
+    },
+    {
+        "charecter": "奥",
+        "pinyin": "ào",
+        "translation": "profound"
+    },
+    {
+        "charecter": "梦",
+        "pinyin": "mèng",
+        "translation": "Dream"
+    },
+    {
+        "charecter": "曾",
+        "pinyin": "céng",
+        "translation": "ever"
+    },
+    {
+        "charecter": "嘴",
+        "pinyin": "zuǐ",
+        "translation": "Mouth"
+    },
+    {
+        "charecter": "认",
+        "pinyin": "rèn",
+        "translation": "recognize"
+    },
+    {
+        "charecter": "如此",
+        "pinyin": "rú cǐ",
+        "translation": "in this way"
+    },
+    {
+        "charecter": "爸",
+        "pinyin": "bà",
+        "translation": "dad"
+    },
+    {
+        "charecter": "照",
+        "pinyin": "zhào",
+        "translation": "According to"
+    },
+    {
+        "charecter": "杰",
+        "pinyin": "jié",
+        "translation": "Jay"
+    },
+    {
+        "charecter": "為什麼",
+        "pinyin": "wèi shén me",
+        "translation": "Why"
+    },
+    {
+        "charecter": "入",
+        "pinyin": "rù",
+        "translation": "enter"
+    },
+    {
+        "charecter": "睡",
+        "pinyin": "shuì",
+        "translation": "sleep"
+    },
+    {
+        "charecter": "都不",
+        "pinyin": "dōu bù",
+        "translation": "Neither"
+    },
+    {
+        "charecter": "服",
+        "pinyin": "fú",
+        "translation": "Clothes"
+    },
+    {
+        "charecter": "节",
+        "pinyin": "jié",
+        "translation": "Festival"
+    },
+    {
+        "charecter": "顿",
+        "pinyin": "dùn",
+        "translation": "Dun"
+    },
+    {
+        "charecter": "了解",
+        "pinyin": "liǎo jiě",
+        "translation": "learn"
+    },
+    {
+        "charecter": "根",
+        "pinyin": "gēn",
+        "translation": "root"
+    },
+    {
+        "charecter": "蛋",
+        "pinyin": "dàn",
+        "translation": "Egg"
+    },
+    {
+        "charecter": "紧",
+        "pinyin": "jǐn",
+        "translation": "tight"
+    },
+    {
+        "charecter": "麻",
+        "pinyin": "má",
+        "translation": "numb"
+    },
+    {
+        "charecter": "很快",
+        "pinyin": "hěn kuài",
+        "translation": "soon"
+    },
+    {
+        "charecter": "游",
+        "pinyin": "yóu",
+        "translation": "tour"
+    },
+    {
+        "charecter": "忘了",
+        "pinyin": "wàng le",
+        "translation": "Forgot"
+    },
+    {
+        "charecter": "戴",
+        "pinyin": "dài",
+        "translation": "Wear"
+    },
+    {
+        "charecter": "莎",
+        "pinyin": "shā",
+        "translation": "Sha"
+    },
+    {
+        "charecter": "故事",
+        "pinyin": "gù shì",
+        "translation": "story"
+    },
+    {
+        "charecter": "视",
+        "pinyin": "shì",
+        "translation": "See"
+    },
+    {
+        "charecter": "真正",
+        "pinyin": "zhēn zhèng",
+        "translation": "real"
+    },
+    {
+        "charecter": "蟹",
+        "pinyin": "xiè",
+        "translation": "crab"
+    },
+    {
+        "charecter": "费",
+        "pinyin": "fèi",
+        "translation": "fee"
+    },
+    {
+        "charecter": "靠",
+        "pinyin": "kào",
+        "translation": "Depend on"
+    },
+    {
+        "charecter": "全",
+        "pinyin": "quán",
+        "translation": "Complete"
+    },
+    {
+        "charecter": "反",
+        "pinyin": "fǎn",
+        "translation": "opposite"
+    },
+    {
+        "charecter": "字",
+        "pinyin": "zì",
+        "translation": "Character"
+    },
+    {
+        "charecter": "度",
+        "pinyin": "dù",
+        "translation": "Spend"
+    },
+    {
+        "charecter": "甚至",
+        "pinyin": "shèn zhì",
+        "translation": "even"
+    },
+    {
+        "charecter": "局",
+        "pinyin": "jú",
+        "translation": "Bureau"
+    },
+    {
+        "charecter": "莫",
+        "pinyin": "mò",
+        "translation": "Mo"
+    },
+    {
+        "charecter": "命",
+        "pinyin": "mìng",
+        "translation": "life"
+    },
+    {
+        "charecter": "语",
+        "pinyin": "yǔ",
+        "translation": "language"
+    },
+    {
+        "charecter": "性",
+        "pinyin": "xìng",
+        "translation": "sex"
+    },
+    {
+        "charecter": "常",
+        "pinyin": "cháng",
+        "translation": "often"
+    },
+    {
+        "charecter": "莱",
+        "pinyin": "lái",
+        "translation": "Lai"
+    },
+    {
+        "charecter": "之后",
+        "pinyin": "zhī hòu",
+        "translation": "after"
+    },
+    {
+        "charecter": "可不",
+        "pinyin": "kě bù",
+        "translation": "No"
+    },
+    {
+        "charecter": "母",
+        "pinyin": "mǔ",
+        "translation": "mother"
+    },
+    {
+        "charecter": "留下",
+        "pinyin": "liú xià",
+        "translation": "Leave"
+    },
+    {
+        "charecter": "外",
+        "pinyin": "wài",
+        "translation": "outside"
+    },
+    {
+        "charecter": "當",
+        "pinyin": "dāng",
+        "translation": "when"
+    },
+    {
+        "charecter": "此",
+        "pinyin": "cǐ",
+        "translation": "this"
+    },
+    {
+        "charecter": "惊",
+        "pinyin": "jīng",
+        "translation": "shock"
+    },
+    {
+        "charecter": "伯",
+        "pinyin": "bó",
+        "translation": "Bo"
+    },
+    {
+        "charecter": "口",
+        "pinyin": "kǒu",
+        "translation": "mouth"
+    },
+    {
+        "charecter": "喜歡",
+        "pinyin": "xǐ huān",
+        "translation": "like"
+    },
+    {
+        "charecter": "the",
+        "pinyin": "the",
+        "translation": "The"
+    },
+    {
+        "charecter": "在做",
+        "pinyin": "zài zuò",
+        "translation": "Doing"
+    },
+    {
+        "charecter": "那麼",
+        "pinyin": "nà me",
+        "translation": "Then"
+    },
+    {
+        "charecter": "請",
+        "pinyin": "qǐng",
+        "translation": "please"
+    },
+    {
+        "charecter": "五",
+        "pinyin": "wǔ",
+        "translation": "five"
+    },
+    {
+        "charecter": "标",
+        "pinyin": "biāo",
+        "translation": "Standard"
+    },
+    {
+        "charecter": "画",
+        "pinyin": "huà",
+        "translation": "painting"
+    },
+    {
+        "charecter": "身上",
+        "pinyin": "shēn shàng",
+        "translation": "Body"
+    },
+    {
+        "charecter": "以后",
+        "pinyin": "yǐ hòu",
+        "translation": "after"
+    },
+    {
+        "charecter": "主",
+        "pinyin": "zhǔ",
+        "translation": "host"
+    },
+    {
+        "charecter": "謝謝",
+        "pinyin": "xiè xiè",
+        "translation": "Thank you"
+    },
+    {
+        "charecter": "應該",
+        "pinyin": "yīng gāi",
+        "translation": "should"
+    },
+    {
+        "charecter": "静",
+        "pinyin": "jìng",
+        "translation": "quiet"
+    },
+    {
+        "charecter": "弹",
+        "pinyin": "dàn",
+        "translation": "bomb"
+    },
+    {
+        "charecter": "改",
+        "pinyin": "gǎi",
+        "translation": "change"
+    },
+    {
+        "charecter": "酒",
+        "pinyin": "jiǔ",
+        "translation": "liquor"
+    },
+    {
+        "charecter": "伦",
+        "pinyin": "lún",
+        "translation": "Lun"
+    },
+    {
+        "charecter": "裏",
+        "pinyin": "lǐ",
+        "translation": "可"
+    },
+    {
+        "charecter": "花",
+        "pinyin": "huā",
+        "translation": "flower"
+    },
+    {
+        "charecter": "续",
+        "pinyin": "xù",
+        "translation": "Continued"
+    },
+    {
+        "charecter": "天哪",
+        "pinyin": "tiān nǎ",
+        "translation": "Oh my God"
+    },
+    {
+        "charecter": "這裡",
+        "pinyin": "zhè lǐ",
+        "translation": "Here"
+    },
+    {
+        "charecter": "房子",
+        "pinyin": "fáng zi",
+        "translation": "house"
+    },
+    {
+        "charecter": "何",
+        "pinyin": "hé",
+        "translation": "what"
+    },
+    {
+        "charecter": "由",
+        "pinyin": "yóu",
+        "translation": "Depend on"
+    },
+    {
+        "charecter": "药",
+        "pinyin": "yào",
+        "translation": "medicine"
+    },
+    {
+        "charecter": "同",
+        "pinyin": "tóng",
+        "translation": "same"
+    },
+    {
+        "charecter": "早上",
+        "pinyin": "zǎo shàng",
+        "translation": "Morning"
+    },
+    {
+        "charecter": "波",
+        "pinyin": "bō",
+        "translation": "Wave"
+    },
+    {
+        "charecter": "弄",
+        "pinyin": "nòng",
+        "translation": "alley"
+    },
+    {
+        "charecter": "务",
+        "pinyin": "wù",
+        "translation": "Service"
+    },
+    {
+        "charecter": "原",
+        "pinyin": "yuán",
+        "translation": "Original"
+    },
+    {
+        "charecter": "失",
+        "pinyin": "shī",
+        "translation": "lose"
+    },
+    {
+        "charecter": "考",
+        "pinyin": "kǎo",
+        "translation": "Test"
+    },
+    {
+        "charecter": "岁",
+        "pinyin": "suì",
+        "translation": "age"
+    },
+    {
+        "charecter": "统",
+        "pinyin": "tǒng",
+        "translation": "Integrity"
+    },
+    {
+        "charecter": "斜",
+        "pinyin": "xié",
+        "translation": "incline"
+    },
+    {
+        "charecter": "拜托",
+        "pinyin": "bài tuō",
+        "translation": "Please"
+    },
+    {
+        "charecter": "跑",
+        "pinyin": "pǎo",
+        "translation": "run"
+    },
+    {
+        "charecter": "不在",
+        "pinyin": "bù zài",
+        "translation": "Not here"
+    },
+    {
+        "charecter": "害",
+        "pinyin": "hài",
+        "translation": "Harmful"
+    },
+    {
+        "charecter": "麽",
+        "pinyin": "mó",
+        "translation": "Yes"
+    },
+    {
+        "charecter": "日",
+        "pinyin": "rì",
+        "translation": "day"
+    },
+    {
+        "charecter": "妮",
+        "pinyin": "nī",
+        "translation": "Ni"
+    },
+    {
+        "charecter": "凯",
+        "pinyin": "kǎi",
+        "translation": "Kai"
+    },
+    {
+        "charecter": "衣服",
+        "pinyin": "yī fú",
+        "translation": "clothing"
+    },
+    {
+        "charecter": "治",
+        "pinyin": "zhì",
+        "translation": "rule"
+    },
+    {
+        "charecter": "便",
+        "pinyin": "biàn",
+        "translation": "Hope"
+    },
+    {
+        "charecter": "客",
+        "pinyin": "kè",
+        "translation": "guest"
+    },
+    {
+        "charecter": "议",
+        "pinyin": "yì",
+        "translation": "Discussion"
+    },
+    {
+        "charecter": "好好",
+        "pinyin": "hǎo hǎo",
+        "translation": "well"
+    },
+    {
+        "charecter": "們",
+        "pinyin": "men",
+        "translation": "可"
+    },
+    {
+        "charecter": "覺得",
+        "pinyin": "jué dé",
+        "translation": "I think"
+    },
+    {
+        "charecter": "谢谢",
+        "pinyin": "xiè xiè",
+        "translation": "Thanks"
+    },
+    {
+        "charecter": "托",
+        "pinyin": "tuō",
+        "translation": "Hope"
+    },
+    {
+        "charecter": "赛",
+        "pinyin": "sài",
+        "translation": "Competition"
+    },
+    {
+        "charecter": "任",
+        "pinyin": "rèn",
+        "translation": "appoint"
+    },
+    {
+        "charecter": "色",
+        "pinyin": "sè",
+        "translation": "color"
+    },
+    {
+        "charecter": "独",
+        "pinyin": "dú",
+        "translation": "alone"
+    },
+    {
+        "charecter": "眼睛",
+        "pinyin": "yǎn jīng",
+        "translation": "Eye"
+    },
+    {
+        "charecter": "黑",
+        "pinyin": "hēi",
+        "translation": "black"
+    },
+    {
+        "charecter": "华",
+        "pinyin": "huá",
+        "translation": "magnificent"
+    },
+    {
+        "charecter": "放在",
+        "pinyin": "fàng zài",
+        "translation": "Put"
+    },
+    {
+        "charecter": "城",
+        "pinyin": "chéng",
+        "translation": "city"
+    },
+    {
+        "charecter": "的時候",
+        "pinyin": "de shí hòu",
+        "translation": "When"
+    },
+    {
+        "charecter": "站",
+        "pinyin": "zhàn",
+        "translation": "stand"
+    },
+    {
+        "charecter": "小孩",
+        "pinyin": "xiǎo hái",
+        "translation": "Child"
+    },
+    {
+        "charecter": "住在",
+        "pinyin": "zhù zài",
+        "translation": "Living in"
+    },
+    {
+        "charecter": "咖啡",
+        "pinyin": "kā fēi",
+        "translation": "coffee"
+    },
+    {
+        "charecter": "换",
+        "pinyin": "huàn",
+        "translation": "Change"
+    },
+    {
+        "charecter": "才是",
+        "pinyin": "cái shì",
+        "translation": "That's it"
+    },
+    {
+        "charecter": "褕",
+        "pinyin": "yú",
+        "translation": "Purple"
+    },
+    {
+        "charecter": "周",
+        "pinyin": "zhōu",
+        "translation": "week"
+    },
+    {
+        "charecter": "控制",
+        "pinyin": "kòng zhì",
+        "translation": "control"
+    },
+    {
+        "charecter": "言",
+        "pinyin": "yán",
+        "translation": "Word"
+    },
+    {
+        "charecter": "敢",
+        "pinyin": "gǎn",
+        "translation": "dare"
+    },
+    {
+        "charecter": "赢",
+        "pinyin": "yíng",
+        "translation": "win"
+    },
+    {
+        "charecter": "半",
+        "pinyin": "bàn",
+        "translation": "Half"
+    },
+    {
+        "charecter": "白",
+        "pinyin": "bái",
+        "translation": "white"
+    },
+    {
+        "charecter": "释",
+        "pinyin": "shì",
+        "translation": "release"
+    },
+    {
+        "charecter": "能不能",
+        "pinyin": "néng bù néng",
+        "translation": "Can it be"
+    },
+    {
+        "charecter": "生了",
+        "pinyin": "shēng le",
+        "translation": "Born"
+    },
+    {
+        "charecter": "而已",
+        "pinyin": "ér yǐ",
+        "translation": "That's it"
+    },
+    {
+        "charecter": "图",
+        "pinyin": "tú",
+        "translation": "picture"
+    },
+    {
+        "charecter": "該",
+        "pinyin": "gāi",
+        "translation": "That"
+    },
+    {
+        "charecter": "怪",
+        "pinyin": "guài",
+        "translation": "Strange"
+    },
+    {
+        "charecter": "字幕",
+        "pinyin": "zì mù",
+        "translation": "subtitle"
+    },
+    {
+        "charecter": "對不起",
+        "pinyin": "duì bù qǐ",
+        "translation": "sorry"
+    },
+    {
+        "charecter": "去看",
+        "pinyin": "qù kàn",
+        "translation": "Go and see"
+    },
+    {
+        "charecter": "像是",
+        "pinyin": "xiàng shì",
+        "translation": "Like"
+    },
+    {
+        "charecter": "保持",
+        "pinyin": "bǎo chí",
+        "translation": "Keep"
+    },
+    {
+        "charecter": "替",
+        "pinyin": "tì",
+        "translation": "for"
+    },
+    {
+        "charecter": "拜",
+        "pinyin": "bài",
+        "translation": "bye"
+    },
+    {
+        "charecter": "一件",
+        "pinyin": "yī jiàn",
+        "translation": "One piece"
+    },
+    {
+        "charecter": "錢",
+        "pinyin": "qián",
+        "translation": "money"
+    },
+    {
+        "charecter": "想知道",
+        "pinyin": "xiǎng zhī dào",
+        "translation": "Want to know"
+    },
+    {
+        "charecter": "時",
+        "pinyin": "shí",
+        "translation": "Hour"
+    },
+    {
+        "charecter": "讲",
+        "pinyin": "jiǎng",
+        "translation": "speak"
+    },
+    {
+        "charecter": "新的",
+        "pinyin": "xīn de",
+        "translation": "New"
+    },
+    {
+        "charecter": "希",
+        "pinyin": "xī",
+        "translation": "hope"
+    },
+    {
+        "charecter": "炸",
+        "pinyin": "zhà",
+        "translation": "fry"
+    },
+    {
+        "charecter": "择",
+        "pinyin": "zé",
+        "translation": "select"
+    },
+    {
+        "charecter": "知",
+        "pinyin": "zhī",
+        "translation": "Know"
+    },
+    {
+        "charecter": "說的",
+        "pinyin": "shuō de",
+        "translation": "Said"
+    },
+    {
+        "charecter": "码",
+        "pinyin": "mǎ",
+        "translation": "code"
+    },
+    {
+        "charecter": "戏",
+        "pinyin": "xì",
+        "translation": "play"
+    },
+    {
+        "charecter": "塞",
+        "pinyin": "sāi",
+        "translation": "Stop"
+    },
+    {
+        "charecter": "碰",
+        "pinyin": "pèng",
+        "translation": "bump"
+    },
+    {
+        "charecter": "放下",
+        "pinyin": "fàng xià",
+        "translation": "lay down"
+    },
+    {
+        "charecter": "一樣",
+        "pinyin": "yī yàng",
+        "translation": "Same"
+    },
+    {
+        "charecter": "害怕",
+        "pinyin": "hài pà",
+        "translation": "Fear"
+    },
+    {
+        "charecter": "杰克",
+        "pinyin": "jié kè",
+        "translation": "Jack"
+    },
+    {
+        "charecter": "迎",
+        "pinyin": "yíng",
+        "translation": "welcome"
+    },
+    {
+        "charecter": "绝",
+        "pinyin": "jué",
+        "translation": "Absolute"
+    },
+    {
+        "charecter": "開始",
+        "pinyin": "kāi shǐ",
+        "translation": "Start"
+    },
+    {
+        "charecter": "生命",
+        "pinyin": "shēng mìng",
+        "translation": "life"
+    },
+    {
+        "charecter": "王",
+        "pinyin": "wáng",
+        "translation": "king"
+    },
+    {
+        "charecter": "助",
+        "pinyin": "zhù",
+        "translation": "help"
+    },
+    {
+        "charecter": "乔",
+        "pinyin": "qiáo",
+        "translation": "Joe"
+    },
+    {
+        "charecter": "义",
+        "pinyin": "yì",
+        "translation": "righteous"
+    },
+    {
+        "charecter": "回到",
+        "pinyin": "huí dào",
+        "translation": "Back to"
+    },
+    {
+        "charecter": "救",
+        "pinyin": "jiù",
+        "translation": "save"
+    },
+    {
+        "charecter": "清楚",
+        "pinyin": "qīng chǔ",
+        "translation": "clear"
+    },
+    {
+        "charecter": "冷",
+        "pinyin": "lěng",
+        "translation": "cold"
+    },
+    {
+        "charecter": "原因",
+        "pinyin": "yuán yīn",
+        "translation": "reason"
+    },
+    {
+        "charecter": "却",
+        "pinyin": "què",
+        "translation": "but"
+    },
+    {
+        "charecter": "付",
+        "pinyin": "fù",
+        "translation": "pay"
+    },
+    {
+        "charecter": "管",
+        "pinyin": "guǎn",
+        "translation": "Tube"
+    },
+    {
+        "charecter": "狂",
+        "pinyin": "kuáng",
+        "translation": "mad"
+    },
+    {
+        "charecter": "早",
+        "pinyin": "zǎo",
+        "translation": "morning"
+    },
+    {
+        "charecter": "一天",
+        "pinyin": "yī tiān",
+        "translation": "one day"
+    },
+    {
+        "charecter": "超",
+        "pinyin": "chāo",
+        "translation": "overtake"
+    },
+    {
+        "charecter": "怀",
+        "pinyin": "huái",
+        "translation": "Embrace"
+    },
+    {
+        "charecter": "使",
+        "pinyin": "shǐ",
+        "translation": "make"
+    },
+    {
+        "charecter": "断",
+        "pinyin": "duàn",
+        "translation": "Break"
+    },
+    {
+        "charecter": "演",
+        "pinyin": "yǎn",
+        "translation": "play"
+    },
+    {
+        "charecter": "外面",
+        "pinyin": "wài miàn",
+        "translation": "Outside"
+    },
+    {
+        "charecter": "四",
+        "pinyin": "sì",
+        "translation": "Four"
+    },
+    {
+        "charecter": "楼",
+        "pinyin": "lóu",
+        "translation": "building"
+    },
+    {
+        "charecter": "另一",
+        "pinyin": "lìng yī",
+        "translation": "another"
+    },
+    {
+        "charecter": "玩笑",
+        "pinyin": "wán xiào",
+        "translation": "joke"
+    },
+    {
+        "charecter": "好啊",
+        "pinyin": "hǎo a",
+        "translation": "OK"
+    },
+    {
+        "charecter": "裡",
+        "pinyin": "lǐ",
+        "translation": "告"
+    },
+    {
+        "charecter": "院",
+        "pinyin": "yuàn",
+        "translation": "hospital"
+    },
+    {
+        "charecter": "空",
+        "pinyin": "kōng",
+        "translation": "null"
+    },
+    {
+        "charecter": "娜",
+        "pinyin": "nà",
+        "translation": "Na"
+    },
+    {
+        "charecter": "將",
+        "pinyin": "jiāng",
+        "translation": "will"
+    },
+    {
+        "charecter": "下去",
+        "pinyin": "xià qù",
+        "translation": "Go down"
+    },
+    {
+        "charecter": "传",
+        "pinyin": "chuán",
+        "translation": "pass"
+    },
+    {
+        "charecter": "時間",
+        "pinyin": "shí jiān",
+        "translation": "time"
+    },
+    {
+        "charecter": "感到",
+        "pinyin": "gǎn dào",
+        "translation": "feel"
+    },
+    {
+        "charecter": "懂",
+        "pinyin": "dǒng",
+        "translation": "Understand"
+    },
+    {
+        "charecter": "血",
+        "pinyin": "xuè",
+        "translation": "Blood"
+    },
+    {
+        "charecter": "失去",
+        "pinyin": "shī qù",
+        "translation": "lose"
+    },
+    {
+        "charecter": "终",
+        "pinyin": "zhōng",
+        "translation": "end"
+    },
+    {
+        "charecter": "還是",
+        "pinyin": "hái shì",
+        "translation": "Still"
+    },
+    {
+        "charecter": "价",
+        "pinyin": "jià",
+        "translation": "price"
+    },
+    {
+        "charecter": "包",
+        "pinyin": "bāo",
+        "translation": "Bag"
+    },
+    {
+        "charecter": "等",
+        "pinyin": "děng",
+        "translation": "wait"
+    },
+    {
+        "charecter": "变",
+        "pinyin": "biàn",
+        "translation": "Change"
+    },
+    {
+        "charecter": "准",
+        "pinyin": "zhǔn",
+        "translation": "allow"
+    },
+    {
+        "charecter": "查",
+        "pinyin": "chá",
+        "translation": "check"
+    },
+    {
+        "charecter": "阿",
+        "pinyin": "ā",
+        "translation": "Ah"
+    },
+    {
+        "charecter": "卡",
+        "pinyin": "kǎ",
+        "translation": "Card"
+    },
+    {
+        "charecter": "這個",
+        "pinyin": "zhè gè",
+        "translation": "this"
+    },
+    {
+        "charecter": "在哪",
+        "pinyin": "zài nǎ",
+        "translation": "Where is it"
+    },
+    {
+        "charecter": "定",
+        "pinyin": "dìng",
+        "translation": "Certainly"
+    },
+    {
+        "charecter": "处",
+        "pinyin": "chù",
+        "translation": "Where"
+    },
+    {
+        "charecter": "真是",
+        "pinyin": "zhēn shì",
+        "translation": "Really"
+    },
+    {
+        "charecter": "保",
+        "pinyin": "bǎo",
+        "translation": "Save"
+    },
+    {
+        "charecter": "想要",
+        "pinyin": "xiǎng yào",
+        "translation": "want to"
+    },
+    {
+        "charecter": "安",
+        "pinyin": "ān",
+        "translation": "install"
+    },
+    {
+        "charecter": "并",
+        "pinyin": "bìng",
+        "translation": "and"
+    },
+    {
+        "charecter": "拿",
+        "pinyin": "ná",
+        "translation": "take"
+    },
+    {
+        "charecter": "情",
+        "pinyin": "qíng",
+        "translation": "Affection"
+    },
+    {
+        "charecter": "爸爸",
+        "pinyin": "bà bà",
+        "translation": "dad"
+    },
+    {
+        "charecter": "褋",
+        "pinyin": "dié",
+        "translation": "Pump"
+    },
+    {
+        "charecter": "您",
+        "pinyin": "nín",
+        "translation": "you"
+    },
+    {
+        "charecter": "美",
+        "pinyin": "měi",
+        "translation": "beautiful"
+    },
+    {
+        "charecter": "非常",
+        "pinyin": "fēi cháng",
+        "translation": "Very"
+    },
+    {
+        "charecter": "办",
+        "pinyin": "bàn",
+        "translation": "manage"
+    },
+    {
+        "charecter": "前",
+        "pinyin": "qián",
+        "translation": "forward"
+    },
+    {
+        "charecter": "格",
+        "pinyin": "gé",
+        "translation": "grid"
+    },
+    {
+        "charecter": "场",
+        "pinyin": "chǎng",
+        "translation": "field"
+    },
+    {
+        "charecter": "体",
+        "pinyin": "tǐ",
+        "translation": "body"
+    },
+    {
+        "charecter": "大家",
+        "pinyin": "dà jiā",
+        "translation": "Everyone"
+    },
+    {
+        "charecter": "呀",
+        "pinyin": "ya",
+        "translation": "ah"
+    },
+    {
+        "charecter": "系",
+        "pinyin": "xì",
+        "translation": "Tie"
+    },
+    {
+        "charecter": "后",
+        "pinyin": "hòu",
+        "translation": "back"
+    },
+    {
+        "charecter": "亲",
+        "pinyin": "qīn",
+        "translation": "relative"
+    },
+    {
+        "charecter": "明白",
+        "pinyin": "míng bái",
+        "translation": "clear"
+    },
+    {
+        "charecter": "备",
+        "pinyin": "bèi",
+        "translation": "Prepare"
+    },
+    {
+        "charecter": "布",
+        "pinyin": "bù",
+        "translation": "cloth"
+    },
+    {
+        "charecter": "计",
+        "pinyin": "jì",
+        "translation": "count"
+    },
+    {
+        "charecter": "恩",
+        "pinyin": "ēn",
+        "translation": "kindness"
+    },
+    {
+        "charecter": "找到",
+        "pinyin": "zhǎo dào",
+        "translation": "turn up"
+    },
+    {
+        "charecter": "她的",
+        "pinyin": "tā de",
+        "translation": "Her"
+    },
+    {
+        "charecter": "老",
+        "pinyin": "lǎo",
+        "translation": "old"
+    },
+    {
+        "charecter": "艾",
+        "pinyin": "ài",
+        "translation": "Ai"
+    },
+    {
+        "charecter": "意",
+        "pinyin": "yì",
+        "translation": "meaning"
+    },
+    {
+        "charecter": "门",
+        "pinyin": "mén",
+        "translation": "Door"
+    },
+    {
+        "charecter": "啦",
+        "pinyin": "la",
+        "translation": "It's"
+    },
+    {
+        "charecter": "米",
+        "pinyin": "mǐ",
+        "translation": "rice"
+    },
+    {
+        "charecter": "本",
+        "pinyin": "běn",
+        "translation": "Book"
+    },
+    {
+        "charecter": "问",
+        "pinyin": "wèn",
+        "translation": "ask"
+    },
+    {
+        "charecter": "上帝",
+        "pinyin": "shàng dì",
+        "translation": "God"
+    },
+    {
+        "charecter": "必",
+        "pinyin": "bì",
+        "translation": "must"
+    },
+    {
+        "charecter": "沒",
+        "pinyin": "méi",
+        "translation": "not"
+    },
+    {
+        "charecter": "等等",
+        "pinyin": "děng děng",
+        "translation": "etc."
+    },
+    {
+        "charecter": "不過",
+        "pinyin": "bù guò",
+        "translation": "But"
+    },
+    {
+        "charecter": "猜",
+        "pinyin": "cāi",
+        "translation": "Guess"
+    },
+    {
+        "charecter": "福",
+        "pinyin": "fú",
+        "translation": "blessing"
+    },
+    {
+        "charecter": "打算",
+        "pinyin": "dǎ suàn",
+        "translation": "Intend"
+    },
+    {
+        "charecter": "适",
+        "pinyin": "shì",
+        "translation": "suitable"
+    },
+    {
+        "charecter": "危",
+        "pinyin": "wēi",
+        "translation": "Danger"
+    },
+    {
+        "charecter": "连",
+        "pinyin": "lián",
+        "translation": "even"
+    },
+    {
+        "charecter": "怕",
+        "pinyin": "pà",
+        "translation": "Afraid"
+    },
+    {
+        "charecter": "化",
+        "pinyin": "huà",
+        "translation": "change"
+    },
+    {
+        "charecter": "不需要",
+        "pinyin": "bù xū yào",
+        "translation": "unnecessary"
+    },
+    {
+        "charecter": "争",
+        "pinyin": "zhēng",
+        "translation": "Contend"
+    },
+    {
+        "charecter": "则",
+        "pinyin": "zé",
+        "translation": "but"
+    },
+    {
+        "charecter": "狱",
+        "pinyin": "yù",
+        "translation": "prison"
+    },
+    {
+        "charecter": "越",
+        "pinyin": "yuè",
+        "translation": "cross"
+    },
+    {
+        "charecter": "小子",
+        "pinyin": "xiǎo zi",
+        "translation": "Boy"
+    },
+    {
+        "charecter": "有趣",
+        "pinyin": "yǒu qù",
+        "translation": "interesting"
+    },
+    {
+        "charecter": "喜歡",
+        "pinyin": "xǐ huān",
+        "translation": "like"
+    },
+    {
+        "charecter": "the",
+        "pinyin": "the",
+        "translation": "The"
+    },
+    {
+        "charecter": "在做",
+        "pinyin": "zài zuò",
+        "translation": "Doing"
+    },
+    {
+        "charecter": "那麼",
+        "pinyin": "nà me",
+        "translation": "Then"
+    },
+    {
+        "charecter": "請",
+        "pinyin": "qǐng",
+        "translation": "please"
+    },
+    {
+        "charecter": "五",
+        "pinyin": "wǔ",
+        "translation": "five"
+    },
+    {
+        "charecter": "标",
+        "pinyin": "biāo",
+        "translation": "Standard"
+    },
+    {
+        "charecter": "画",
+        "pinyin": "huà",
+        "translation": "painting"
+    },
+    {
+        "charecter": "身上",
+        "pinyin": "shēn shàng",
+        "translation": "Body"
+    },
+    {
+        "charecter": "以后",
+        "pinyin": "yǐ hòu",
+        "translation": "after"
+    },
+    {
+        "charecter": "至少",
+        "pinyin": "zhì shǎo",
+        "translation": "At least"
+    },
+    {
+        "charecter": "亞",
+        "pinyin": "yà",
+        "translation": "A"
+    },
+    {
+        "charecter": "脱",
+        "pinyin": "tuō",
+        "translation": "Take off"
+    },
+    {
+        "charecter": "消息",
+        "pinyin": "xiāo xī",
+        "translation": "information"
+    },
+    {
+        "charecter": "不喜",
+        "pinyin": "bù xǐ",
+        "translation": "Not happy"
+    },
+    {
+        "charecter": "块",
+        "pinyin": "kuài",
+        "translation": "piece"
+    },
+    {
+        "charecter": "快走",
+        "pinyin": "kuài zǒu",
+        "translation": "Go quickly"
+    },
+    {
+        "charecter": "著",
+        "pinyin": "zhù",
+        "translation": "write"
+    },
+    {
+        "charecter": "各位",
+        "pinyin": "gè wèi",
+        "translation": "Everyone"
+    },
+    {
+        "charecter": "算",
+        "pinyin": "suàn",
+        "translation": "Calculate"
+    },
+    {
+        "charecter": "問題",
+        "pinyin": "wèn tí",
+        "translation": "problem"
+    },
+    {
+        "charecter": "沒事",
+        "pinyin": "méi shì",
+        "translation": "It's OK"
+    },
+    {
+        "charecter": "导",
+        "pinyin": "dǎo",
+        "translation": "guide"
+    },
+    {
+        "charecter": "州",
+        "pinyin": "zhōu",
+        "translation": "state"
+    },
+    {
+        "charecter": "老兄",
+        "pinyin": "lǎo xiōng",
+        "translation": "Brother"
+    },
+    {
+        "charecter": "抓",
+        "pinyin": "zhuā",
+        "translation": "Grasp"
+    },
+    {
+        "charecter": "代",
+        "pinyin": "dài",
+        "translation": "generation"
+    },
+    {
+        "charecter": "蒙",
+        "pinyin": "méng",
+        "translation": "Mongolian"
+    },
+    {
+        "charecter": "抓住",
+        "pinyin": "zhuā zhù",
+        "translation": "catch"
+    },
+    {
+        "charecter": "山",
+        "pinyin": "shān",
+        "translation": "Mountain"
+    },
+    {
+        "charecter": "拍",
+        "pinyin": "pāi",
+        "translation": "shoot"
+    },
+    {
+        "charecter": "沙",
+        "pinyin": "shā",
+        "translation": "sand"
+    },
+    {
+        "charecter": "妻子",
+        "pinyin": "qī zǐ",
+        "translation": "wife"
+    },
+    {
+        "charecter": "脸",
+        "pinyin": "liǎn",
+        "translation": "Face"
+    },
+    {
+        "charecter": "责",
+        "pinyin": "zé",
+        "translation": "responsibility"
+    },
+    {
+        "charecter": "你自己",
+        "pinyin": "nǐ zì jǐ",
+        "translation": "You yourself"
+    },
+    {
+        "charecter": "回來",
+        "pinyin": "huí lái",
+        "translation": "Come back"
+    },
+    {
+        "charecter": "歌",
+        "pinyin": "gē",
+        "translation": "Song"
+    },
+    {
+        "charecter": "星",
+        "pinyin": "xīng",
+        "translation": "star"
+    },
+    {
+        "charecter": "权",
+        "pinyin": "quán",
+        "translation": "right"
+    },
+    {
+        "charecter": "术",
+        "pinyin": "shù",
+        "translation": "Technique"
+    },
+    {
+        "charecter": "显",
+        "pinyin": "xiǎn",
+        "translation": "Show"
+    },
+    {
+        "charecter": "幸",
+        "pinyin": "xìng",
+        "translation": "fortunate"
+    },
+    {
+        "charecter": "交",
+        "pinyin": "jiāo",
+        "translation": "pay"
+    },
+    {
+        "charecter": "不同",
+        "pinyin": "bù tóng",
+        "translation": "different"
+    },
+    {
+        "charecter": "聪",
+        "pinyin": "cōng",
+        "translation": "Cong"
+    },
+    {
+        "charecter": "随",
+        "pinyin": "suí",
+        "translation": "With"
+    },
+    {
+        "charecter": "登",
+        "pinyin": "dēng",
+        "translation": "Login"
+    },
+    {
+        "charecter": "班",
+        "pinyin": "bān",
+        "translation": "class"
+    },
+    {
+        "charecter": "二",
+        "pinyin": "èr",
+        "translation": "two"
+    },
+    {
+        "charecter": "录",
+        "pinyin": "lù",
+        "translation": "record"
+    },
+    {
+        "charecter": "武器",
+        "pinyin": "wǔ qì",
+        "translation": "arms"
+    },
+    {
+        "charecter": "热",
+        "pinyin": "rè",
+        "translation": "hot"
+    },
+    {
+        "charecter": "才能",
+        "pinyin": "cái néng",
+        "translation": "Talent"
+    },
+    {
+        "charecter": "當然",
+        "pinyin": "dāng rán",
+        "translation": "Of course"
+    },
+    {
+        "charecter": "晚",
+        "pinyin": "wǎn",
+        "translation": "Night"
+    },
+    {
+        "charecter": "晚安",
+        "pinyin": "wǎn ān",
+        "translation": "Good night"
+    },
+    {
+        "charecter": "成功",
+        "pinyin": "chéng gōng",
+        "translation": "success"
+    },
+    {
+        "charecter": "未",
+        "pinyin": "wèi",
+        "translation": "not yet"
+    },
+    {
+        "charecter": "参",
+        "pinyin": "cān",
+        "translation": "Ginseng"
+    },
+    {
+        "charecter": "瓦",
+        "pinyin": "wǎ",
+        "translation": "watt"
+    },
+    {
+        "charecter": "饭",
+        "pinyin": "fàn",
+        "translation": "meal"
+    },
+    {
+        "charecter": "殺",
+        "pinyin": "shā",
+        "translation": "Kill"
+    },
+    {
+        "charecter": "帕",
+        "pinyin": "pà",
+        "translation": "Pa"
+    },
+    {
+        "charecter": "待",
+        "pinyin": "dài",
+        "translation": "treat"
+    },
+    {
+        "charecter": "是否",
+        "pinyin": "shì fǒu",
+        "translation": "whether"
+    },
+    {
+        "charecter": "勒",
+        "pinyin": "lēi",
+        "translation": "Le"
+    },
+    {
+        "charecter": "射",
+        "pinyin": "shè",
+        "translation": "shoot"
+    },
+    {
+        "charecter": "表",
+        "pinyin": "biǎo",
+        "translation": "surface"
+    },
+    {
+        "charecter": "卫",
+        "pinyin": "wèi",
+        "translation": "guard"
+    },
+    {
+        "charecter": "太太",
+        "pinyin": "tài tài",
+        "translation": "Mrs"
+    },
+    {
+        "charecter": "接受",
+        "pinyin": "jiē shòu",
+        "translation": "accept"
+    },
+    {
+        "charecter": "跳",
+        "pinyin": "tiào",
+        "translation": "Jump"
+    },
+    {
+        "charecter": "象",
+        "pinyin": "xiàng",
+        "translation": "elephant"
+    },
+    {
+        "charecter": "灵",
+        "pinyin": "líng",
+        "translation": "spirit"
+    },
+    {
+        "charecter": "真不",
+        "pinyin": "zhēn bù",
+        "translation": "Really no"
+    },
+    {
+        "charecter": "破",
+        "pinyin": "pò",
+        "translation": "break"
+    },
+    {
+        "charecter": "夫人",
+        "pinyin": "fū rén",
+        "translation": "lady"
+    },
+    {
+        "charecter": "操",
+        "pinyin": "cāo",
+        "translation": "Hold"
+    },
+    {
+        "charecter": "诺",
+        "pinyin": "nuò",
+        "translation": "promise"
+    },
+    {
+        "charecter": "萨",
+        "pinyin": "sà",
+        "translation": "Sa"
+    },
+    {
+        "charecter": "卖",
+        "pinyin": "mài",
+        "translation": "Sell"
+    },
+    {
+        "charecter": "选",
+        "pinyin": "xuǎn",
+        "translation": "select"
+    },
+    {
+        "charecter": "注意",
+        "pinyin": "zhù yì",
+        "translation": "Notice"
+    },
+    {
+        "charecter": "历",
+        "pinyin": "lì",
+        "translation": "calendar"
+    },
+    {
+        "charecter": "脚",
+        "pinyin": "jiǎo",
+        "translation": "foot"
+    },
+    {
+        "charecter": "丝",
+        "pinyin": "sī",
+        "translation": "Silk"
+    },
+    {
+        "charecter": "少",
+        "pinyin": "shǎo",
+        "translation": "few"
+    },
+    {
+        "charecter": "工",
+        "pinyin": "gōng",
+        "translation": "work"
+    },
+    {
+        "charecter": "密",
+        "pinyin": "mì",
+        "translation": "dense"
+    },
+    {
+        "charecter": "鱼",
+        "pinyin": "yú",
+        "translation": "fish"
+    },
+    {
+        "charecter": "验",
+        "pinyin": "yàn",
+        "translation": "Test"
+    },
+    {
+        "charecter": "不再",
+        "pinyin": "bù zài",
+        "translation": "no longer"
+    },
+    {
+        "charecter": "检",
+        "pinyin": "jiǎn",
+        "translation": "Inspection"
+    },
+    {
+        "charecter": "骗",
+        "pinyin": "piàn",
+        "translation": "cheat"
+    },
+    {
+        "charecter": "必須",
+        "pinyin": "bì xū",
+        "translation": "Must be"
+    },
+    {
+        "charecter": "a",
+        "pinyin": "a",
+        "translation": "ah"
+    },
+    {
+        "charecter": "自由",
+        "pinyin": "zì yóu",
+        "translation": "free"
+    },
+    {
+        "charecter": "杯",
+        "pinyin": "bēi",
+        "translation": "cup"
+    },
+    {
+        "charecter": "馆",
+        "pinyin": "guǎn",
+        "translation": "Pavilion"
+    },
+    {
+        "charecter": "完",
+        "pinyin": "wán",
+        "translation": "over"
+    },
+    {
+        "charecter": "追",
+        "pinyin": "zhuī",
+        "translation": "Chase"
+    },
+    {
+        "charecter": "际",
+        "pinyin": "jì",
+        "translation": "International"
+    },
+    {
+        "charecter": "产",
+        "pinyin": "chǎn",
+        "translation": "Produce"
+    },
+    {
+        "charecter": "想到",
+        "pinyin": "xiǎng dào",
+        "translation": "think"
+    },
+    {
+        "charecter": "收",
+        "pinyin": "shōu",
+        "translation": "receive"
+    },
+    {
+        "charecter": "探",
+        "pinyin": "tàn",
+        "translation": "Explore"
+    },
+    {
+        "charecter": "直到",
+        "pinyin": "zhí dào",
+        "translation": "until"
+    },
+    {
+        "charecter": "酷",
+        "pinyin": "kù",
+        "translation": "cool"
+    },
+    {
+        "charecter": "乱",
+        "pinyin": "luàn",
+        "translation": "chaos"
+    },
+    {
+        "charecter": "资",
+        "pinyin": "zī",
+        "translation": "Funding"
+    },
+    {
+        "charecter": "毁",
+        "pinyin": "huǐ",
+        "translation": "destroy"
+    },
+    {
+        "charecter": "要求",
+        "pinyin": "yāo qiú",
+        "translation": "Require"
+    },
+    {
+        "charecter": "急",
+        "pinyin": "jí",
+        "translation": "urgent"
+    },
+    {
+        "charecter": "玛",
+        "pinyin": "mǎ",
+        "translation": "Ma"
+    },
+    {
+        "charecter": "方",
+        "pinyin": "fāng",
+        "translation": "square"
+    },
+    {
+        "charecter": "完成",
+        "pinyin": "wán chéng",
+        "translation": "Finish"
+    },
+    {
+        "charecter": "照片",
+        "pinyin": "zhào piān",
+        "translation": "photo"
+    },
+    {
+        "charecter": "收到",
+        "pinyin": "shōu dào",
+        "translation": "receive"
+    },
+    {
+        "charecter": "所有人",
+        "pinyin": "suǒ yǒu rén",
+        "translation": "All"
+    },
+    {
+        "charecter": "博士",
+        "pinyin": "bó shì",
+        "translation": "PhD"
+    },
+    {
+        "charecter": "媽媽",
+        "pinyin": "mā mā",
+        "translation": "mother"
+    },
+    {
+        "charecter": "you",
+        "pinyin": "you",
+        "translation": "you"
+    },
+    {
+        "charecter": "父母",
+        "pinyin": "fù mǔ",
+        "translation": "parents"
+    },
+    {
+        "charecter": "奇怪",
+        "pinyin": "qí guài",
+        "translation": "strangeness"
+    },
+    {
+        "charecter": "男孩",
+        "pinyin": "nán hái",
+        "translation": "boy"
+    },
+    {
+        "charecter": "攻",
+        "pinyin": "gōng",
+        "translation": "attack"
+    },
+    {
+        "charecter": "店",
+        "pinyin": "diàn",
+        "translation": "shop"
+    },
+    {
+        "charecter": "埃",
+        "pinyin": "āi",
+        "translation": "Esche"
+    },
+    {
+        "charecter": "多久",
+        "pinyin": "duō jiǔ",
+        "translation": "how long"
+    },
+    {
+        "charecter": "红",
+        "pinyin": "hóng",
+        "translation": "red"
+    },
+    {
+        "charecter": "太多",
+        "pinyin": "tài duō",
+        "translation": "too much"
+    },
+    {
+        "charecter": "咱",
+        "pinyin": "zán",
+        "translation": "we"
+    },
+    {
+        "charecter": "能",
+        "pinyin": "néng",
+        "translation": "able"
+    },
+    {
+        "charecter": "事",
+        "pinyin": "shì",
+        "translation": "thing"
+    },
+    {
+        "charecter": "看",
+        "pinyin": "kàn",
+        "translation": "look"
+    },
+    {
+        "charecter": "我們",
+        "pinyin": "wǒ men",
+        "translation": "we"
+    },
+    {
+        "charecter": "上",
+        "pinyin": "shàng",
+        "translation": "superior"
+    },
+    {
+        "charecter": "给",
+        "pinyin": "gěi",
+        "translation": "Give"
+    },
+    {
+        "charecter": "可以",
+        "pinyin": "kě yǐ",
+        "translation": "Can"
+    },
+    {
+        "charecter": "现",
+        "pinyin": "xiàn",
+        "translation": "now"
+    },
+    {
+        "charecter": "斯",
+        "pinyin": "sī",
+        "translation": "s"
+    },
+    {
+        "charecter": "做",
+        "pinyin": "zuò",
+        "translation": "Do"
+    },
+    {
+        "charecter": "儿",
+        "pinyin": "ér",
+        "translation": "Son"
+    },
+    {
+        "charecter": "时",
+        "pinyin": "shí",
+        "translation": "hour"
+    },
+    {
+        "charecter": "点",
+        "pinyin": "diǎn",
+        "translation": "point"
+    },
+    {
+        "charecter": "开",
+        "pinyin": "kāi",
+        "translation": "open"
+    },
+    {
+        "charecter": "让",
+        "pinyin": "ràng",
+        "translation": "let"
+    },
+    {
+        "charecter": "就是",
+        "pinyin": "jiù shì",
+        "translation": "that is"
+    },
+    {
+        "charecter": "但",
+        "pinyin": "dàn",
+        "translation": "but"
+    },
+    {
+        "charecter": "呢",
+        "pinyin": "ne",
+        "translation": "Woolen cloth"
+    },
+    {
+        "charecter": "着",
+        "pinyin": "zhe",
+        "translation": "Put"
+    },
+    {
+        "charecter": "它",
+        "pinyin": "tā",
+        "translation": "it"
+    },
+    {
+        "charecter": "這",
+        "pinyin": "zhè",
+        "translation": "This"
+    },
+    {
+        "charecter": "如果",
+        "pinyin": "rú guǒ",
+        "translation": "if"
+    },
+    {
+        "charecter": "跟",
+        "pinyin": "gēn",
+        "translation": "and"
+    },
+    {
+        "charecter": "邪",
+        "pinyin": "xié",
+        "translation": "evil"
+    },
+    {
+        "charecter": "听",
+        "pinyin": "tīng",
+        "translation": "listen"
+    },
+    {
+        "charecter": "克",
+        "pinyin": "kè",
+        "translation": "gram"
+    },
+    {
+        "charecter": "再",
+        "pinyin": "zài",
+        "translation": "Again"
+    },
+    {
+        "charecter": "快",
+        "pinyin": "kuài",
+        "translation": "quick"
+    },
+    {
+        "charecter": "嗎",
+        "pinyin": "ma",
+        "translation": "Is it"
+    },
+    {
+        "charecter": "被",
+        "pinyin": "bèi",
+        "translation": "quilt"
+    },
+    {
+        "charecter": "是的",
+        "pinyin": "shì de",
+        "translation": "Yes"
+    },
+    {
+        "charecter": "大",
+        "pinyin": "dà",
+        "translation": "big"
+    },
+    {
+        "charecter": "先生",
+        "pinyin": "xiān shēng",
+        "translation": "gentlemen"
+    },
+    {
+        "charecter": "别",
+        "pinyin": "bié",
+        "translation": "Don't"
+    },
+    {
+        "charecter": "告",
+        "pinyin": "gào",
+        "translation": "tell"
+    },
+    {
+        "charecter": "真的",
+        "pinyin": "zhēn de",
+        "translation": "real"
+    },
+    {
+        "charecter": "谢",
+        "pinyin": "xiè",
+        "translation": "Thanks"
+    },
+    {
+        "charecter": "哦",
+        "pinyin": "ó",
+        "translation": "oh"
+    },
+    {
+        "charecter": "话",
+        "pinyin": "huà",
+        "translation": "talk"
+    },
+    {
+        "charecter": "械",
+        "pinyin": "xiè",
+        "translation": "Machinery"
+    },
+    {
+        "charecter": "见",
+        "pinyin": "jiàn",
+        "translation": "See"
+    },
+    {
+        "charecter": "当",
+        "pinyin": "dāng",
+        "translation": "when"
+    },
+    {
+        "charecter": "芯",
+        "pinyin": "xīn",
+        "translation": "core"
+    },
+    {
+        "charecter": "该",
+        "pinyin": "gāi",
+        "translation": "Should"
+    },
+    {
+        "charecter": "西",
+        "pinyin": "xī",
+        "translation": "West"
+    },
+    {
+        "charecter": "子",
+        "pinyin": "zi",
+        "translation": "son"
+    },
+    {
+        "charecter": "已",
+        "pinyin": "yǐ",
+        "translation": "already"
+    },
+    {
+        "charecter": "會",
+        "pinyin": "huì",
+        "translation": "Can"
+    },
+    {
+        "charecter": "小",
+        "pinyin": "xiǎo",
+        "translation": "Small"
+    },
+    {
+        "charecter": "爱",
+        "pinyin": "ài",
+        "translation": "like"
+    },
+    {
+        "charecter": "特",
+        "pinyin": "tè",
+        "translation": "special"
+    }
+]
