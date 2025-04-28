@@ -178,26 +178,30 @@ function renderCards(){
 
 }
 
+
+function sayHello(){
+    console.log("Hello")
+}
+
 async function main() {
     cardDeck = await initializeDeck();
     if (!cardDeck) return; 
     
-    if (window.location.pathname === "/index4.html") {
-        // need to add 1 to whatever the user picks
-        // need to remove make sure it doesnt loop through after the last one
-        cardDeck = cardDeck.slice(9,19)
+    if (window.location.pathname === "/range2.html") {
+        const fullPath = window.location.href;
+        console.log(fullPath);
 
-// testing to see if varible can be accessed in html
-        const output = document.getElementById("output");
-        output.innerHTML = `
-          <p>Global Variable: ${cardDeck}</p>
-        `;
-// testing to see if varible can be accessed in html
+        const url = new URL(fullPath);
+        const params = new URLSearchParams(url.search);
+        console.log(params)
 
-        
-        console.log("You're on the hellr page!");
+        const start = parseInt(params.get('start'), 10);  
+        const end = parseInt(params.get('end'), 10);     
+        console.log('Start:', start);  
+        console.log('End:', end);      
 
-          // attempt to take range input
+        cardDeck = cardDeck.slice(start -1,end )
+
         renderCards()
       }
 
