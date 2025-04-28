@@ -138,7 +138,7 @@ function createNavigationBlock(parent) {
         showDefinition = false;
         createStudyCard(studyUnitContainer, showDefinition);
     });
-    
+
     cardNavigationShuffle.addEventListener("click", () => {
         // Shuffle the cardDeck array using Fisher-Yates shuffle algorithm
         for (let i = cardDeck.length - 1; i > 0; i--) {
@@ -146,26 +146,23 @@ function createNavigationBlock(parent) {
             [cardDeck[i], cardDeck[j]] = [cardDeck[j], cardDeck[i]]; // Swap elements
         }
     
+
         currentCardIndex = 0; 
         showDefinition = false;
         createStudyCard(studyUnitContainer, showDefinition);
     });
     
+
     cardNavigationNext.addEventListener("click", () => {
-        // Only go forward if we're not at the last card
-        if (currentCardIndex < cardDeck.length - 1) {
-            currentCardIndex++;
-        }
+        currentCardIndex = (currentCardIndex + 1) % cardDeck.length;
         showDefinition = false;
         createStudyCard(studyUnitContainer, showDefinition);
     });
-    
     cardNavigationRestart.addEventListener("click", () => {
         currentCardIndex = 0;
         showDefinition = false;
         createStudyCard(studyUnitContainer, showDefinition);
     });
-    
 }
 
 
