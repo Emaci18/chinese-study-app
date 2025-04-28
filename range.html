@@ -1,63 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="normalize.css">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="menu_main">
+      <input type="checkbox" id="menu-toggle" />
+      <label for="menu-toggle" class="menu-label">☰ Menu</label>
 
-  <div class="menu_main">
-    <input type="checkbox" id="menu-toggle">
-    <label for="menu-toggle" class="menu-label">☰ Menu</label>
-  
-    <div class="dropdown-content">
-      <a href="./index.html">Home</a>
-      <a href="./range.html">Pick Card Range</a>
-      <a href="#">Custom Study</a>
+      <div class="dropdown-content">
+        <a href="./index.html">Home</a>
+        <a href="./range.html">Pick Card Range</a>
+        <a href="#">Custom Study</a>
+      </div>
     </div>
 
-</div>
+    <div class="range_form_container">
+      <form class="range_form" id="myForm">
+        <div class="inputs_container">
+          <label class="form_label" for="start">Start:</label>
+          <input
+            class="form_input"
+            type="number"
+            id="start"
+            name="start"
+            required
+          />
+          <br />
+          <label class="form_label" for="end">End:</label>
+          <input
+            class="form_input"
+            type="number"
+            id="end"
+            name="end"
+            required
+          />
+          <br />
+        </div>
 
-<div class="range_form_container">
-
-  <form class="range_form" id="myForm">
-    <div class="inputs_container">
-      <label class="form_label" for="start">Start:</label>
-      <input  class="form_input" type="number" id="start" name="start" required>
-      <br>
-      <label  class="form_label" for="end">End:</label>
-      <input class="form_input" type="number" id="end" name="end" required>
-      <br>
+        <button class="submit_btn" type="submit">Submit</button>
+      </form>
     </div>
 
-    <button class="submit_btn" type="submit">Submit</button>
-</form>
-</div>
+    <p id="output"></p>
 
+    <script>
+      const output = document.getElementById("output");
 
-<p id="output"></p>
+      console.log("Card Deck:", JSON.stringify(window.cardDeck));
 
-<script>
+      document
+        .getElementById("myForm")
+        .addEventListener("submit", function (e) {
+          e.preventDefault();
 
-    const output = document.getElementById("output");
+          const start = document.getElementById("start").value;
+          const end = document.getElementById("end").value;
 
-    console.log("Card Deck:", JSON.stringify(window.cardDeck));
-
-
-    document.getElementById("myForm").addEventListener("submit", function (e) {
-        e.preventDefault(); 
-
-        const start = document.getElementById("start").value;
-        const end = document.getElementById("end").value;
-
-        window.location.href = `range2.html?start=${start}&end=${end}`;
-
-        
-    });
-</script>
-
-</body>
+          window.location.href = `/chinese-study-app/range2.html?start=${start}&end=${end}`;
+        });
+    </script>
+  </body>
 </html>
